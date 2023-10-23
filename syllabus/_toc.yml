@@ -4,9 +4,31 @@
 
 format: jb-book
 root: index
-options:
-  numbered: true
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: Over de module
+    chapters:
+    - file: benodigdheden
+    - file: eindopdracht
+  - caption: HTML
+    chapters:
+    - file: html/introductie
+    - file: html/01_simpele_elementen
+    - file: html/02_organisatie
+    - file: html/03_tabellen_lijsten
+    - file: html/04_navigatie
+    - file: html/05_validatie
+  - caption: CSS
+    chapters:
+    - file: css/introductie
+    - file: css/06_koppeling
+    - file: css/07_kleuren
+    - file: css/08_tekst
+    - file: css/09_randen
+    - file: css/10_box_model
+    - file: css/11_layout
+    - file: css/12_links
+  - caption: Bijlagen
+    chapters:
+    - file: bijlage/extra
+    - file: bijlage/definities
+    - file: bijlage/reference

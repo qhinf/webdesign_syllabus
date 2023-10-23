@@ -1,8 +1,7 @@
 # Boek configuratie
 # https://jupyterbook.org/customize/config.html
 
-# TODO: Verander de titel!
-title: Voorbeeldsyllabus
+title: Webdesign
 
 # Auteur is verplicht, maar wordt voor de syllabus site automatisch aangepast op
 # basis van de commitgeschiedenis.
@@ -52,11 +51,11 @@ sphinx:
     # zaken die vaker terugkomen en bijvoorbeeld aangepast moeten worden voor
     # een volgende editie.
     myst_substitutions:
-      deadline: "donderdag 29 juno, 16:00"
-      deadline_uitstel_aanvragen: "maandag 12 juno, 16:00"
-      deadline_uitstel: "donderdag 13 julij, 16:00"
-      docent: "..."
-      docent_email: "... apenstaartje quadraam punt nl"
+      deadline: "donderdag 2 november, 16:00"
+      deadline_uitstel_aanvragen: "maandag 23 oktober, 16:00"
+      deadline_uitstel: "donderdag 28 november, 16:00"
+      docent: "Arthur Rump"
+      docent_email: "a.rump apenstaartje quadraam punt nl"
 
 
 # html, repository en launch_buttons instellingen worden globaal voor alle
