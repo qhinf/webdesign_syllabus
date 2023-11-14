@@ -1,6 +1,6 @@
-# Opdracht 8 - Tekst
+# Oefening 8 - Tekst
 
-We hebben het bij opdracht 1 over simpele elementen al een beetje gehad over het formatteren van tekst. Dit kan met HTML gedaan worden met tags, maar dit kan ook gedaan worden met CSS. Zoals je in de vorige opdracht al hebt gezien bepaal je de kleur van de tekst met `color`, maar ook andere opmaak zoals het lettertype kunnen bepaald worden.
+We hebben het bij oefening 1 over simpele elementen al een beetje gehad over het formatteren van tekst. Dit kan met HTML gedaan worden met tags, maar dit kan ook gedaan worden met CSS. Zoals je in de vorige oefening al hebt gezien bepaal je de kleur van de tekst met `color`, maar ook andere opmaak zoals het lettertype kunnen bepaald worden.
 
 Bij het geven van opmaak aan tekst moet de leesbaarheid van de tekst altijd voorop staan. Hier zijn een aantal basis principes voor ontwikkeld. Deze kan je hier vinden: <https://www.oogvereniging.nl/leven-werken/alle-onderwerpen/boeken-lezen/handreiking-bruikbaarheid-gedrukte-tekst/>
 

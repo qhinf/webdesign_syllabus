@@ -87,4 +87,4 @@ Nu is het tijd om zelf te gaan bouwen aan een website en om de verschillende ele
 
 In deze module gebruiken we het programma **WebStorm** om de websites makkelijk en snel te kunnen programmeren. WebStorm is een voorbeeld van een **IDE**, een Integrated Development Environment. Dit zijn programma's die het voor programmeurs makkelijker maken om te programmeren, bijvoorbeeld door de code meteen te controleren op foutjes. WebStorm is een zeer krachtig programma waar je veel verschillende dingen mee kan. Je kunt er zelfs de webapps zoals besproken in de introductie mee maken. In het begin ziet WebStorm er heel gecompliceerd uit, maar geen paniek! In deze module leer je stap voor stap hoe je met WebStorm werkt, en veel van de functies ga je nu nog niet gebruiken.
 
-De opdrachten vind je op de volgende pagina's.
+De oefeningenen vind je op de volgende pagina's.

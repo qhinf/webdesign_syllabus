@@ -1,4 +1,4 @@
-# Opdracht 2 - Organisatie
+# Oefening 2 - Organisatie
 
 Zoals je misschien al hebt gemerkt tijdens het lezen van de code in het voorbeeld is het niet op het eerste gezicht duidelijk hoe de website georganiseerd is. In HTML5 is hier een nieuw systeem voor geïntroduceerd, dit bestaat uit de zogenaamde **Semantic Elements**. Deze elements zorgen ervoor dat elke website in de basis op dezelfde manier gestructureerd kan worden zoals hiernaast. Door deze structuur kunnen computers en zoekmachines beter omgaan met de websites, waardoor de ervaring van de gebruiker verbeterd.
 
@@ -43,9 +43,11 @@ De `<figure></figure` en `<figcaption></figcaption>` worden gebruikt om een besc
 
 Meer informatie over semantic elements kan je hier vinden: <https://www.w3schools.com/html/html5_semantic_elements.asp>
 
-Maak een kopie van de website die je in opdracht 1 hebt gemaakt. Doe dit door binnen WebStorm met de rechtermuisknop op `Webdevelopment` te drukken en vervolgens New Directory te kiezen. Geef hem de naam `Opdracht 2` en druk op `OK`. Kopieer vervolgens het HTML-bestand uit `Opdracht 1` door er één keer op te klikken en vervolgens `CTRL + C` te gebruiken. Selecteer vervolgens de map `Opdracht 2` en gebruik `CTRL + V` om het bestand te plakken. Sluit het bestand uit de map `Opdracht 1` door bovenin de balk op het kruisje naast `index.html` te drukken. Open vervolgens het HTML-bestand `index.html` uit de map `Opdracht     2`.
+:::{exercise}
+Maak een kopie van de website die je in Oefening 1 hebt gemaakt. Doe dit door binnen WebStorm met de rechtermuisknop op `Webdevelopment` te drukken en vervolgens New Directory te kiezen. Geef hem de naam `Opdracht 2` en druk op `OK`. Kopieer vervolgens het HTML-bestand uit `Opdracht 1` door er één keer op te klikken en vervolgens `CTRL + C` te gebruiken. Selecteer vervolgens de map `Opdracht 2` en gebruik `CTRL + V` om het bestand te plakken. Sluit het bestand uit de map `Opdracht 1` door bovenin de balk op het kruisje naast `index.html` te drukken. Open vervolgens het HTML-bestand `index.html` uit de map `Opdracht 2`.
 
-> Pas het bestand aan en zorg ervoor dat hij nu voldoet aan de standaarden van semantic elements. Gebruik ieder semantic element ten minste één keer (behalve `nav`). Laat het controleren door klasgenoten of door de docent.
+Pas het bestand aan en zorg ervoor dat hij nu voldoet aan de standaarden van semantic elements. Gebruik ieder semantic element ten minste één keer (behalve `nav`). Laat het controleren door klasgenoten of door de docent.
+:::
 
 Hier is een voorbeeld van een goede implementatie:
 

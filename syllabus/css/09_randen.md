@@ -1,4 +1,4 @@
-# Opdracht 9 - Randen
+# Oefening 9 - Randen
 
 Met `CSS` is het mogelijk om randen te vormen om ieder element van je website. Randen zijn een essentieel onderdeel van je webdesign, ze zorgen er namelijk voor dat de lezer van je website makkelijk kan zien hoe alles georganiseerd is. Het verbetert op die manier de User Experience.
 

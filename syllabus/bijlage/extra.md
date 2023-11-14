@@ -1,8 +1,8 @@
 # Extra uitdaging
 
-De volgende zes opdrachten zijn voor de mensen die na de uitleg van normaal HTML en CSS nog extra informatie en uitdaging kunnen gebruiken. Deze opdrachten brengen je eigen website iets dichterbij de webapps die gemaakt worden met Javascript In deze opdrachten wordt de theorie niet uitgelegd, maar krijg je in plaats daarvan de bronnen aangereikt om je eigen onderzoek te doen. Je hebt deze informatie niet nodig om het eindproduct te maken (zonder deze informatie kan je ook een 10 halen), maar het gebruiken van deze opdrachten zorgt er wel voor dat je alles beter onder de knie krijgt en een beter eindproduct kunt maken.
+De volgende zes oefeningen zijn voor de mensen die na de uitleg van normaal HTML en CSS nog extra informatie en uitdaging kunnen gebruiken. Deze oefeningen brengen je eigen website iets dichterbij de webapps die gemaakt worden met Javascript In deze oefeningen wordt de theorie niet uitgelegd, maar krijg je in plaats daarvan de bronnen aangereikt om je eigen onderzoek te doen. Je hebt deze informatie niet nodig om het eindproduct te maken (zonder deze informatie kan je ook een 10 halen), maar het gebruiken van deze oefeningen zorgt er wel voor dat je alles beter onder de knie krijgt en een beter eindproduct kunt maken.
 
-Ook als je extra uitdaging zoekt, hoef je deze opdrachten niet allemaal te doorlopen. Lees de beschrijvingen één voor één door en beslis daarna welke opdracht(en) je graag zou willen doen. Bekijk vervolgens de bronnen en experimenteer zelf met een toepassing binnen je eigen website.
+Ook als je extra uitdaging zoekt, hoef je deze oefeningen niet allemaal te doorlopen. Lees de beschrijvingen één voor één door en beslis daarna welke oefeningen je graag zou willen doen. Bekijk vervolgens de bronnen en experimenteer zelf met een toepassing binnen je eigen website.
 
 ## (Optioneel) Extra 1 - Web Fonts
 

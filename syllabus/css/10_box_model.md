@@ -1,4 +1,4 @@
-# Opdracht 10 - Het box model
+# Oefening 10 - Het box model
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Box-model.svg/765px-Box-model.svg.png](../assets/image14.png)
 

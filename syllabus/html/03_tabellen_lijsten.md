@@ -1,4 +1,4 @@
-# Opdracht 3 - Tabellen en lijsten
+# Oefening 3 - Tabellen en lijsten
 
 Tabellen en lijsten zijn zeer handige manieren om informatie te ordenen. In HTML zijn hier dan ook verschillende elements aan toegewijd.
 
@@ -36,7 +36,7 @@ In HTML maak je een tabel met `<table></table>`. Hierbinnen maak je rijen met `<
 
 Dit geeft het resultaat aan de rechterkant. Er kunnen nog meer dingen worden aangepast aan de tabel. Kijk hiervoor op <https://www.w3schools.com/html/html_tables.asp> als je geïnteresseerd bent. De tabel ziet er nu ook nog redelijk saai uit. Dit gaan we echter later met CSS verbeteren.
 
-1.  Maak een kopie van de website uit opdracht 2. Pas hem nu aan door een tabel toe te voegen, voorzie die ook meteen van inhoud.
+1.  Maak een kopie van de website uit Oefening 2. Pas hem nu aan door een tabel toe te voegen, voorzie die ook meteen van inhoud.
 
 ## Unordered list
 

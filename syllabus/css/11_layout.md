@@ -1,6 +1,6 @@
-# Opdracht 11 - Layout
+# Oefening 11 - Layout
 
-De layout van een website bepalen en programmeren is misschien wel het moeilijkste wat er is. Gelukkig zijn er in CSS een hoop gereedschappen ingebouwd om het wat makkelijker te maken. In deze opdracht leer je daarover.
+De layout van een website bepalen en programmeren is misschien wel het moeilijkste wat er is. Gelukkig zijn er in CSS een hoop gereedschappen ingebouwd om het wat makkelijker te maken. In deze oefening leer je daarover.
 
 ## Display
 
@@ -36,4 +36,4 @@ Af en toe wil je float gebruiken maar tegelijkertijd voorkomen dat bepaalde elem
 
 Soms krijg je te maken met een `block` element dat eigenlijk niet de volledige breedte van de pagina in moet nemen. In dit geval kan je met `width` de breedte in `CSS` aanpassen. Hetzelfde kan je ook doen met `height` Hiervoor kan je veel verschillende waarden gebruiken, zoals pixels of percentages.
 
-1.  Experimenteer met de gereedschappen uit deze opdracht en probeer daarmee je website een goede layout te geven. Dit is bijna de laatste stap voordat je een volledige website hebt!
+1.  Experimenteer met de gereedschappen uit deze oefening en probeer daarmee je website een goede layout te geven. Dit is bijna de laatste stap voordat je een volledige website hebt!

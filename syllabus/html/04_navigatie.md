@@ -1,14 +1,14 @@
-# Opdracht 4 - Navigatie
+# Oefening 4 - Navigatie
 
 Tot nu toe bestaan de websites die we hebben gemaakt maar uit één enkele pagina die gemaakt wordt door één HTML-bestand. Binnen een grotere website voldoet één pagina meestal niet. Die pagina wordt al snel te vol en te groot. Daarom worden veel websites opgesplitst in meer pagina's. Om een nieuwe pagina toe te voegen, hoeven we slechts een nieuw HTML-bestand te maken met een andere naam.
 
 ## Een contactpagina
 
-1.  Maak een nieuw HTML-bestand in de map voor opdracht 4 en geef het de bestandsnaam `contact.html`
+1.  Maak een nieuw HTML-bestand in de map voor Oefening 4 en geef het de bestandsnaam `contact.html`
 
 We gaan een nieuwe pagina maken die gevuld is met jouw contactinformatie, zodat mensen je kunnen bereiken via de website.
 
-1.  Gebruik de technieken die je hebt geleerd in opdracht 1 en 2 om een goede pagina te maken met je contactgegevens. Vermeld in ieder geval je naam, emailadres en telefoonnummer.
+1.  Gebruik de technieken die je hebt geleerd in Oefening 1 en 2 om een goede pagina te maken met je contactgegevens. Vermeld in ieder geval je naam, emailadres en telefoonnummer.
 
 ## Links
 
@@ -34,7 +34,7 @@ Het gebruiken van een openbare site als link is handig, wanneer je bijvoorbeeld 
 
 ## Navigatie via een menu
 
-Op vrijwel iedere site waar je vandaag de dag gebruik van maakt, moet je navigeren tussen verschillende pagina's met een menubalk. Hiervoor is speciaal `nav` uit opdracht 2 in het leven geroepen. In dat element zet je alle belangrijke navigatielinks van je site. Voor de beste gebruikservaring is het een goed idee om de menubalk op iedere pagina identiek te laten zijn. Kijk bijvoorbeeld op [*https://www.youtube.com/*](https://www.youtube.com/), hier zie je ook dat de balk aan de bovenkant van de website altijd hetzelfde blijft. Een handige tip voor een simpele menubalk is om de huidige pagina ook in de menubalk terug te laten komen, maar dit normale tekst te maken in plaats van een linkje. Later gaan we dit met `CSS` op een andere manier doen. `nav` staat tussen de header en de eerste `section` of `article`. Het zou er ongeveer zo uit moeten zien:
+Op vrijwel iedere site waar je vandaag de dag gebruik van maakt, moet je navigeren tussen verschillende pagina's met een menubalk. Hiervoor is speciaal `nav` uit Oefening 2 in het leven geroepen. In dat element zet je alle belangrijke navigatielinks van je site. Voor de beste gebruikservaring is het een goed idee om de menubalk op iedere pagina identiek te laten zijn. Kijk bijvoorbeeld op [*https://www.youtube.com/*](https://www.youtube.com/), hier zie je ook dat de balk aan de bovenkant van de website altijd hetzelfde blijft. Een handige tip voor een simpele menubalk is om de huidige pagina ook in de menubalk terug te laten komen, maar dit normale tekst te maken in plaats van een linkje. Later gaan we dit met `CSS` op een andere manier doen. `nav` staat tussen de header en de eerste `section` of `article`. Het zou er ongeveer zo uit moeten zien:
 
 ``` html
 <nav>
@@ -44,4 +44,4 @@ Op vrijwel iedere site waar je vandaag de dag gebruik van maakt, moet je naviger
 </nav>
 ```
 
-1.  Voeg een menubalk toe aan de startpagina en aan de contactpagina, zet hierin de links gemaakt in de vorige opdracht.
+1.  Voeg een menubalk toe aan de startpagina en aan de contactpagina, zet hierin de links gemaakt in de vorige Oefening.

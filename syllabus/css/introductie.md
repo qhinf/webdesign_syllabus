@@ -65,4 +65,4 @@ Voor je eigen stylesheets hoef je alleen `href` aan te passen naar de locatie va
 
 CSS bevat heel veel verschillende properties, om deze goed te begrijpen ga je ze meteen in de praktijk toepassen. Gebruik om de CSS te testen je HTML-bestand uit `Opdracht_5` maak een nieuwe website met wat content aan. Zorg ervoor dat je in ieder geval een paar keer `p` en een paar keer `a` gebruikt.
 
-De opdrachten vind je op de volgende pagina's.
+De oefeningen vind je op de volgende pagina's.

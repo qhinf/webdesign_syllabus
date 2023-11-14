@@ -1,4 +1,4 @@
-# Opdracht 6 - Koppeling
+# Oefening 6 - Koppeling
 
 We gaan nu een CSS-bestand maken en die koppelen aan je HTML-bestand.
 

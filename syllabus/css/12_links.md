@@ -1,4 +1,4 @@
-# Opdracht 12 - Links
+# Oefening 12 - Links
 
 Tot nu toe hebben we bijna elk onderdeel van de website een bepaalde stijl kunnen geven. Alleen de links blijven een beetje achter. Je hebt misschien al gemerkt dat links van kleur veranderen wanneer je er op klikt en wanneer je die pagina al een keer hebt bezocht. Dit wordt bepaald in de link states.
 

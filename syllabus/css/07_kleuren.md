@@ -1,4 +1,4 @@
-# Opdracht 7 - Kleuren
+# Oefening 7 - Kleuren
 
 Eén van de belangrijkste elementen van een website is het kleurenschema. Tot nu toe zijn onze websites in zwart-wit gemaakt op een paar plaatjes na. Wij gaan daar nu verandering in aanbrengen met CSS.
 
