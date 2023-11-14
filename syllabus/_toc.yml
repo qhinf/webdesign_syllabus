@@ -27,6 +27,10 @@ parts:
     - file: css/10_box_model
     - file: css/11_layout
     - file: css/12_links
+  - caption: Design
+    chapters:
+    - file: design/basisregels.md
+    - file: design/usability_testing.md
   - caption: Bijlagen
     chapters:
     - file: bijlage/extra
