@@ -1,5 +1,8 @@
 # Webdesign
 
+<!-- Deze regel niet wijzigen! -->
+*Versie {{ versie }}. Jouw docent: {{ docent }} ({{ docent_email }})*
+
 In deze module leer je hoe de wereld van **webdesign** in elkaar zit en maak je je eigen website! Alles wat je leert kun je direct toepassen op je eigen site. Websites zijn inmiddels onderdeel van ons dagelijkse leven en hebben daarmee een hele belangrijke plaats gekregen. Het is daarom heel handig om te weten wat er precies achter de schermen gebeurt, op het moment dat jij op een website klikt.
 
 Websites worden geprogrammeerd met **HTML** en **CSS**. Dit zijn twee programmeertalen waarmee alle basisfunctionaliteiten van een website toegankelijk zijn. Je kunt hiermee bijvoorbeeld tekst en plaatjes laten zien, navigeren tussen pagina's en het uiterlijk van de website aanpassen. Dit lijkt misschien heel moeilijk, maar gaandeweg deze module leer je dat het eigenlijk best makkelijk is.
