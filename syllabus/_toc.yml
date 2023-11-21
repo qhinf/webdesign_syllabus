@@ -9,6 +9,7 @@ parts:
     chapters:
     - file: benodigdheden
     - file: eindopdracht
+    - file: hoe_werkt_het_web
   - caption: HTML
     chapters:
     - file: html/introductie
