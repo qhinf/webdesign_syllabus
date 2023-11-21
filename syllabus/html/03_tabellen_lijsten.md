@@ -36,7 +36,9 @@ In HTML maak je een tabel met `<table></table>`. Hierbinnen maak je rijen met `<
 
 Dit geeft het resultaat aan de rechterkant. Er kunnen nog meer dingen worden aangepast aan de tabel. Kijk hiervoor op <https://www.w3schools.com/html/html_tables.asp> als je geïnteresseerd bent. De tabel ziet er nu ook nog redelijk saai uit. Dit gaan we echter later met CSS verbeteren.
 
-1.  Maak een kopie van de website uit Oefening 2. Pas hem nu aan door een tabel toe te voegen, voorzie die ook meteen van inhoud.
+:::{exercise}
+Maak een kopie van de website uit Oefening 2. Pas hem nu aan door een tabel toe te voegen, voorzie die ook meteen van inhoud.
+:::
 
 ## Unordered list
 
@@ -52,7 +54,9 @@ Wanneer je met HTML slechts een lijst van bullet points wilt maken dan kan je hi
 </ul>
 ```
 
-1.  Voeg een unordered list toe aan de website en voorzie hem van inhoud.
+:::{exercise}
+Voeg een unordered list toe aan de website en voorzie die van inhoud.
+:::
 
 ## Ordered list
 
@@ -78,8 +82,12 @@ Dit leidt tot de volgende syntax en het volgende resultaat:
 </ol>
 ```
 
-1.  Voeg een ordered list toe aan de website en voorzie meteen van inhoud.
+:::{exercise}
+Voeg een ordered list toe aan de website en voorzie meteen van inhoud.
+:::
 
-2.  Lijsten en tabellen zijn onwijs veelzijdig en krachtig. Ze vormen zich naar de inhoud en de browser. Experimenteer met lijsten en tabellen in je eigen website of in een nieuw bestand. Zet lijsten in andere lijsten of tabellen. Kijk goed naar wat er gebeurt en probeer er een goed begrip van te krijgen.
+:::{exercise}
+Lijsten en tabellen zijn onwijs veelzijdig en krachtig. Ze vormen zich naar de inhoud en de browser. Experimenteer met lijsten en tabellen in je eigen website of in een nieuw bestand. Zet lijsten in andere lijsten of tabellen. Kijk goed naar wat er gebeurt en probeer er een goed begrip van te krijgen.
+:::
 
-Meer over de lijsten vind je hier: [*https://www.w3schools.com/html/html_lists.asp*](https://www.w3schools.com/html/html_lists.asp)
+Meer over de lijsten vind je hier: <https://www.w3schools.com/html/html_lists.asp>

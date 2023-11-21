@@ -4,11 +4,15 @@ Tot nu toe bestaan de websites die we hebben gemaakt maar uit één enkele pagin
 
 ## Een contactpagina
 
-1.  Maak een nieuw HTML-bestand in de map voor Oefening 4 en geef het de bestandsnaam `contact.html`
+:::{exercise}
+Maak een nieuw HTML-bestand in de map voor Oefening 4 en geef het de bestandsnaam `contact.html`
+:::
 
 We gaan een nieuwe pagina maken die gevuld is met jouw contactinformatie, zodat mensen je kunnen bereiken via de website.
 
-1.  Gebruik de technieken die je hebt geleerd in Oefening 1 en 2 om een goede pagina te maken met je contactgegevens. Vermeld in ieder geval je naam, emailadres en telefoonnummer.
+:::{exercise}
+Gebruik de technieken die je hebt geleerd in Oefening 1 en 2 om een goede pagina te maken met je contactgegevens. Vermeld in ieder geval je naam, emailadres en telefoonnummer.
+:::
 
 ## Links
 
@@ -24,13 +28,17 @@ Nu is het pad tussen `index.html` en `contact.html`: `contactmap/contact.html`.
 
 Let op dat de namen van bestanden en mappen hierin hoofdlettergevoelig zijn. Als de naam van een bestand met een hoofdletter begint dan moet die naam ook in de koppelingslocatie met een hoofdletter.
 
-1.  Maak een link in `index.html` naar `contact.html` en ook andersom. Probeer het nu uit.
+:::{exercise}
+Maak een link in `index.html` naar `contact.html` en ook andersom. Probeer het nu uit.
+:::
 
 De koppelingslocatie binnen een link mag ook een openbare site zijn zoals <https://google.com> Gebruik hiervoor de URL van de website in de browser. Vergeet dus niet om `https://` of `http://` in zo'n geval erbij te zetten: `<a href="https://www.google.com/">Google</a>`
 
 Het gebruiken van een openbare site als link is handig, wanneer je bijvoorbeeld een Facebookpagina wilt linken op je website.
 
-1.  Voeg op een pagina een link toe naar een externe website.
+:::{exercise}
+Voeg op een pagina een link toe naar een externe website.
+:::
 
 ## Navigatie via een menu
 
@@ -44,4 +52,6 @@ Op vrijwel iedere site waar je vandaag de dag gebruik van maakt, moet je naviger
 </nav>
 ```
 
-1.  Voeg een menubalk toe aan de startpagina en aan de contactpagina, zet hierin de links gemaakt in de vorige Oefening.
+:::{exercise}
+Voeg een menubalk toe aan de startpagina en aan de contactpagina, zet hierin de links gemaakt in de vorige Oefening.
+:::
