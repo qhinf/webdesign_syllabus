@@ -2,7 +2,7 @@
 
 Na het oefenen met het maken van een website is het nu tijd om het eindproduct voor deze module te gaan maken. Zo kan je alle geleerde kennis meteen toepassen en een website maken die je nog gaat gebruiken.
 
-De opdracht is eenvoudig: maak een website! Het onderwerp en de inhoud van de site mag je zelf bepalen, en ook het design is aan jou (maar denk wel aan wat je daarover tijdens de les hebt geleerd). 
+De opdracht is eenvoudig: maak een website! Het onderwerp en de inhoud van de site mag je zelf bepalen, en ook het design is aan jou (maar denk wel aan wat je daarover tijdens de les hebt geleerd). In een begeleidend document leg je kort uit welke keuzes je in het design hebt gemaakt.
 
 Wat wel belangrijk is: je website moet in principe publiceerbaar zijn. Dat betekent dat je je ook aan copyright regels moet houden, en dus geen teksten of afbeeldingen kopieert die niet van jou zijn, als je daar geen toetstemming voor hebt. Dat geldt ook voor de HTML en CSS code: in principe schrijf je die zelf, tenzij je toestemming hebt om die code te kopiëren **en** je dat duidelijk vermeldt met commentaar. Zie de [Handleiding code stelen](https://informatica.q-highschool.nl/informatie/code-stelen-van-het-internet-of-leerling) voor meer informatie. Code die je gekopieerd hebt, telt voor de beoordeling natuurlijk niet mee in de eisen aan HTML en CSS. En voor het design krijg je ook geen punten, als dat niet je eigen design is. Je laten inspireren en zelfs elementen overnemen is prima, maar de kern moet altijd je eigen werk zijn.
 
@@ -53,7 +53,7 @@ Hoeveel werk is het?
 - Maak gebruik van `width` en/of `height`
 - Gebruik een van de layout properties om elementen te positioneren
 - ^ **Minimaal 1 van de 3 hierboven**
-- Bonuspunten (uit de bonusopdrachten):
+- Bonuspunten (zie {doc}`bijlage/extra`):
   - Gebruik een web font
   - Gebruik een icon
   - Maak een dropdown menu
@@ -76,6 +76,10 @@ Is de code netjes?
 
 ### Design
 
+Voeg een document toe aan je website waarin je uitlegt welke designkeuzes je hebt gemaakt. Waarom zit de navigatie daar? Wat heb je gedaan om het overzichtelijk te houden? Benoem hoe je de [basisregels](design/basisregels.md) hebt toegepast en wat de resultaten van jouw [usability tests](design/usability_testing.md) waren.
+
+Naast je uitleg, kijken we ook naar de volgende punten:
+
 - Duidelijk doel
 - Overzichtelijk, duidelijke structuur op de pagina
 - Duidelijke navigatie tussen pagina's
@@ -84,8 +88,6 @@ Is de code netjes?
 - Lettertype past bij de site en is goed leesbaar
 - Voldoende contrast tussen kleuren (dus geen grijze tekst op een grijze achtergrond)
 - Goed gebruik van afbeeldingen
-
-Per ding 0 - 3 punten
 
 ## Geen inspiratie?
 
