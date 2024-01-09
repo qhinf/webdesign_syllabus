@@ -89,6 +89,16 @@ Naast je uitleg, kijken we ook naar de volgende punten:
 - Voldoende contrast tussen kleuren (dus geen grijze tekst op een grijze achtergrond)
 - Goed gebruik van afbeeldingen
 
+## Inleveren
+
+Je levert je website in via de Inlever-knop op [app.q-highschool.nl](https://app.q-highschool.nl). Je kunt daar maar één bestand inleveren, dus moet je alle bestanden van je website (HTML, CSS, afbeeldingen, etc.) een .zip bestand maken.
+
+1. Zorg dat alle bestanden in hetzelfde mapje in WebStorm staan.
+2. Open die map in de verkenner. Dat kun je makkelijk doen vanuit WebStorm: klik met de rechtermuisknop op de map met jouw eindopdracht en kies *Open In* > *Explorer*.
+   ![Rechtermuisknop-menu met de muis op Open In > Explorer](assets/webstorm_open_in_explorer.png)
+3. Maak een .zip bestand volgens [deze instructies](https://informatica.q-highschool.nl/informatie/meerdere-bestanden-inleveren). Vergeet niet om ook je document met uitleg over je [design](#design) toe te voegen aan deze map!
+4. Lever het .zip-bestand in op [app.q-highschool.nl](https://app.q-highschool.nl).
+
 ## Geen inspiratie?
 
 Maak een CV! Bij het solliciteren voor een nieuwe baan wordt bijna altijd om je curriculum vitae (CV) gevraagd. Voor veel mensen is dit een simpel Word-bestandje of PDF waarin de werkervaring en opleidingen van een persoon staan. Vaak wordt daar ook nog een beetje informatie over jezelf aan toegevoegd. In onze ogen is dat allemaal een beetje achterhaald, wij vinden namelijk dat iedereen binnen de informaticawereld een online CV moet hebben! Dat is dan ook de opdracht, je gaat een website maken als vervanging voor je CV.
