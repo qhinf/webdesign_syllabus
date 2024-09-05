@@ -47,7 +47,7 @@ sphinx:
     # "Solution to".
     # We wachten op https://github.com/executablebooks/sphinx-exercise/issues/13
     numfig_format:
-      exercise: "Oefening %s"
+      exercise: "Opdracht %s"
     # Definieer de keys die in de tekst vervangen kunnen worden. Handig voor
     # zaken die vaker terugkomen en bijvoorbeeld aangepast moeten worden voor
     # een volgende editie.
