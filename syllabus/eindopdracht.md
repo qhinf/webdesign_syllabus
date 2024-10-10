@@ -74,6 +74,7 @@ Is de code netjes?
 - Gebruik consistente spaties en witregels
 - Je CSS is valide volgens de [W3C CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
+(eindopdracht_design)=
 ### Design
 
 Voeg een document toe aan je website waarin je uitlegt welke designkeuzes je hebt gemaakt. Waarom zit de navigatie daar? Wat heb je gedaan om het overzichtelijk te houden? Benoem hoe je de [basisregels](design/basisregels.md) hebt toegepast en wat de resultaten van jouw [usability tests](design/usability_testing.md) waren.
@@ -96,7 +97,7 @@ Je levert je website in via de Inlever-knop op [app.q-highschool.nl](https://app
 1. Zorg dat alle bestanden in hetzelfde mapje in WebStorm staan.
 2. Open die map in de verkenner. Dat kun je makkelijk doen vanuit WebStorm: klik met de rechtermuisknop op de map met jouw eindopdracht en kies *Open In* > *Explorer*.
    ![Rechtermuisknop-menu met de muis op Open In > Explorer](assets/webstorm_open_in_explorer.png)
-3. Maak een .zip bestand volgens [deze instructies](https://informatica.q-highschool.nl/informatie/meerdere-bestanden-inleveren). Vergeet niet om ook je document met uitleg over je [design](#design) toe te voegen aan deze map!
+3. Maak een .zip bestand volgens [deze instructies](https://informatica.q-highschool.nl/informatie/meerdere-bestanden-inleveren). Vergeet niet om ook je document met uitleg over je [design](eindopdracht_design) toe te voegen aan deze map!
 4. Lever het .zip-bestand in op [app.q-highschool.nl](https://app.q-highschool.nl).
 
 ## Geen inspiratie?
