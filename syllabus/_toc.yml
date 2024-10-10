@@ -10,6 +10,7 @@ parts:
     - file: benodigdheden
     - file: eindopdracht
     - file: hoe_werkt_het_web
+    - file: online_zetten
   - caption: HTML
     chapters:
     - file: html/introductie
