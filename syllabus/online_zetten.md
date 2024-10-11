@@ -49,12 +49,6 @@ Tip voor het kiezen van een gebruikersnaam: wanneer je serieus bent over Informa
 1.	Als je later wijzigingen wilt aanbrengen, kun je eenvoudig nieuwe bestanden uploaden of de bestaande bestanden in je repository aanpassen.
 2.	Na het maken van wijzigingen en het klikken op Commit changes, wordt de live website automatisch bijgewerkt.
 
-### Optioneel: Custom domein toevoegen
-
-1.	Als je een eigen domeinnaam hebt, kun je deze koppelen aan je GitHub Pages-site.
-2.	Maak een bestand genaamd CNAME in de root van je repository en voeg daarin je domeinnaam toe (bijvoorbeeld: www.mijnwebsite.com).
-3.	Update je DNS-instellingen bij je domeinregistrar om naar GitHub Pages te verwijzen.
-
 ## Publiceren op Neocities
 ### Stap 1: Maak een Neocities-account
 1.	Ga naar de Neocities-website.
