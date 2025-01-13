@@ -22,9 +22,9 @@ Aan het eind van deze module heb je je eigen website gebouwd. Bij {doc}`eindopdr
 
 En tot slot, enkele belangrijke data:
 
-- Deadline voor het inleveren van de eindopdracht: **{{ deadline }}**
-- Deadline voor het aanvragen van uitstel: **{{ deadline_uitstel_aanvragen }}**
-  - Uitgestelde deadline: **{{ deadline_uitstel }}**
+- Eerste inlevermoment voor de eindopdracht: **{{ eerste_inlevermoment }}**
+- Tweede inlevermoment voor de eindopdracht: **{{ tweede_inlevermoment }}**
+  - Meld je voor **{{ tweede_inlevermoment_melden }}** om het tweede inlevermoment te gebruiken
 
 Inhoudsopgave:
 

@@ -52,11 +52,12 @@ sphinx:
     # zaken die vaker terugkomen en bijvoorbeeld aangepast moeten worden voor
     # een volgende editie.
     myst_substitutions:
-      deadline: "donderdag 17 oktober, 16:00"
-      deadline_uitstel_aanvragen: "maandag 7 oktober, 16:00"
-      deadline_uitstel: "dinsdag 26 november, 16:00 (? *onder voorbehoud*)"
-      docent: "Pieter van Engelen"
-      docent_email: "p punt vanengelen apenstaartje quadraam punt nl"
+      versie: "Globaal afgehandeld. Niet wijzigen."
+      eerste_inlevermoment: "donderdag 20 maart, 16:00"
+      tweede_inlevermoment_melden: "maandag 10 maart, 16:00"
+      tweede_inlevermoment: "dinsdag 8 april, 16:00"
+      docent: "Arthur Rump"
+      docent_email: "a.rump apenstaartje quadraam punt nl"
 
 
 # html, repository en launch_buttons instellingen worden globaal voor alle
