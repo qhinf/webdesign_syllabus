@@ -1,5 +1,9 @@
 # CSS: Introductie
 
+:::{exercise}
+Download [CSS Opdrachten.zip](../assets/CSS%20Opdrachten.zip) en pak het .zip bestand uit. Deze bestanden gebruiken we voor CSS oefeningen tijdens de les.
+:::
+
 CSS staat voor Cascading Style Sheets. Met CSS beschrijf je hoe elements weergeven moeten worden op je beeldscherm. Je kunt één CSS-bestand gebruiken voor veel verschillende HTML-bestanden, waardoor je makkelijk een uniforme opmaak voor heel je website hanteert. Je kunt ook meer CSS-bestanden per HTML-bestand gebruiken om zo heel gemakkelijk en snel een aangepaste opmaak voor elke pagina te maken.
 
 CSS lost een heel groot probleem met HTML op. HTML is namelijk helemaal niet bedoeld om te beschrijven hoe een website eruit moet gaan zien, naast de basis layout. Laten we maar gewoon beginnen, dan zie je al snel hoe handig CSS is.
