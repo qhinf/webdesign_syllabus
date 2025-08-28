@@ -1,0 +1,8 @@
+- [x] benodigdheden.html
+- [ ] introductie.html
+- [ ] 01_simpele_elementen.html
+- [ ] 02_organisatie.html
+- [ ] 05_validatie.html
+- [ ] 07_kleuren.html
+- [x] eindopdracht.html
+- [ ] definities.html
