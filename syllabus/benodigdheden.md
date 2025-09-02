@@ -1,3 +1,4 @@
+(=benodigdheden)
 # Benodigdheden
 
 Om deze module goed te kunnen volgen, heb je de volgende programma's nodig:
@@ -29,3 +30,12 @@ Wanneer je geschreven code wil bekijken in je browser, dan kun je in Visual Stud
   of klik **Go Live** rechtsonder.
 - De site opent op `http://localhost:5500`. Wijzigingen verschijnen na **Opslaan** van je bestand.
 - Stoppen: klik opnieuw op **Go Live** (of op de poort-indicator).
+
+## Validator extension installeren (VS Code)
+In VS Code kun je met een validator-plugin je HTML en CSS direct laten controleren.
+
+1.	Open Visual Studio Code.
+2.	Open Extensions (Windows/Linux: Ctrl+Shift+X, macOS: Cmd+Shift+X).
+3.	Zoek op “W3C Web Validator”.
+4.	Klik op W3C Web Validator en daarna op Install.
+
