@@ -46,8 +46,6 @@ Een lijst van definities in de volgorde dat ze voor het eerst voorkomen in de mo
 
 **Comments:** Stukken tekst die niet uitmaken voor de website, maar die er alleen zijn om extra context te geven aan de mensen die je code lezen.
 
-**WebStorm:** Een IDE die speciaal is gemaakt om websites mee te maken.
-
 **IDE:** Een Integrated Development Environment is een programma wat speciaal is gemaakt om software mee te schrijven met speciale gereedschappen voor programmeurs.
 
 **Debug mode:** Een modus in een IDE dat de programmeur de mogelijkheid geeft om terwijl het programma bezig is de interne staat van het programma te wijzigen.

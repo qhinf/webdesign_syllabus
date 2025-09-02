@@ -4,9 +4,11 @@ Eén van de belangrijkste elementen van een website is het kleurenschema. Tot nu
 
 ## Tekst
 
+## Tekst
+
 Je kan met CSS de kleur van tekst heel eenvoudig veranderen, dit doe je met de stijlregel: `color: kleur;`
 
-Hierbij kan `kleur` veel verschillende waarden zijn. De simpelste optie is het gebruiken van de Engelse naam voor de kleur (bijvoorbeeld `red` of `yellow`). Wanneer je achter `color:` op *CTRL*+*SPATIE* drukt, krijg je binnen WebStorm een lijstje te zien van alle kleuren die mogelijk zijn. Er zijn 140 standaard kleuren die je kan gebruiken. De lijst is ook nog terug te vinden op: [*https://www.w3schools.com/colors/colors_names.asp*](https://www.w3schools.com/colors/colors_names.asp) . Alle tekst binnen paragrafen blauw maken doe je zo:
+Hierbij kan `kleur` veel verschillende waarden zijn. De simpelste optie is het gebruiken van de Engelse naam voor de kleur (bijvoorbeeld `red` of `yellow`). Wanneer je achter `color:` op *CTRL*+*SPATIE* drukt, krijg je in **Visual Studio Code** via *IntelliSense* een lijstje te zien van alle kleuren die mogelijk zijn (VS Code toont ook een kleine kleurstaal naast de waarde). Er zijn 140 standaard kleuren die je kan gebruiken. De lijst is ook nog terug te vinden op: [*https://www.w3schools.com/colors/colors_names.asp*](https://www.w3schools.com/colors/colors_names.asp). Alle tekst binnen paragrafen blauw maken doe je zo:
 
 ``` css
     p {

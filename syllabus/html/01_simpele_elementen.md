@@ -1,56 +1,33 @@
 # Oefening 1 - Simpele elementen
 
 :::{exercise}
-Als je WebStorm voor de eerste keer opent, druk dan op: ![](../assets/image4.png) Als je WebStorm al een keer hebt geopend, maak dan een nieuw project met File > New > Project... Gebruik de naam `WebDevelopment` voor je project, laat de rest van de instellingen hetzelfde en druk op Create. Maak een nieuwe map binnen `WebDevelopment` door met de rechtermuisknop op de map te klikken en dan New → Directory te selecteren. Noem deze map `Opdracht_1`. Maak bij elke oefening weer een nieuwe map, op die manier kun je alle oefeningen goed gescheiden houden. Kopieer dan meteen alle bestanden van de vorige oefening naar je nieuwe map, we bouwen namelijk verder op de website uit de vorige oefening. Maak een nieuw bestand in de oefeningmap door met de rechtermuisknop op de map te klikken en dan New > HTML-file. Noem het bestand `index` en druk op enter. Zo wordt de boilerplate code alvast voor je toegevoegd.
+Start **Visual Studio Code (VS Code)** en maak je projectmap aan.
+
+1. **Map openen:** *File → Open Folder…* en kies/maak een map **WebDevelopment**.  
+2. **Oefening-map aanmaken:** Maak in de Verkenner (links) een map **Opdracht_1**.  
+3. **Nieuw bestand:** Maak in **Opdracht_1** een bestand **index.html**.  
+4. **Boilerplate toevoegen:** Typ `!` en druk **Tab** (of **Enter**) om via *Emmet* de HTML-boilerplate in te voegen.  
+5. Voor elke nieuwe oefening maak je een **nieuwe map** aan. Kopieer desgewenst bestanden uit je vorige oefening als je verder bouwt op die website.
 :::
 
 Voor de meeste mensen geldt dat ze dingen beter onthouden en begrijpen als ze het zelf overtypen, probeer dus zo veel mogelijk zelf te typen en zo min mogelijk te kopiëren. Op die manier vergroot je de kans dat je het in één keer begrijpt. Dit geldt niet alleen voor deze module, maar is belangrijk om te doen in alle informatica modules binnen de Q-highschool.
 
 :::{exercise}
-Druk in de balk bovenaan of aan de linkerkant met de rechtermuisknop op index.html Selecteer vervolgens de optie `Debug ‘index.html’`. WebStorm opent nu jouw website.
+Bekijk je pagina in de browser.
+
+**Aanbevolen (Live Server-extensie):** Rechtsklik op **index.html** → *Open with Live Server*. De pagina opent en ververst automatisch bij wijzigingen.  
+**Zonder extensie:** Open de map in je bestandsbeheer en dubbelklik **index.html** om deze in je browser te openen.
 :::
 
-In de meeste IDE's betekent de **debug modus** dat er een live versie van je code wordt geopend. Op die manier kun je aan je code werken terwijl je programma bezig is. In ons geval met web development betekent het dat WebStorm onze webpagina opent en bij iedere wijziging meteen voor ons ververst.
-
-Je ziet in WebStorm zelf dat alle tekst een aparte kleur heeft. Dit is om de code makkelijker te lezen en te begrijpen te maken. Dit heet **syntax highlighting** en is in vrijwel alle IDE's aanwezig.
+Met **Live Server** in VS Code krijg je een live versie van je site die automatisch herlaadt bij het opslaan. In VS Code zie je dat code in kleuren wordt weergegeven: dat heet **syntax highlighting** en helpt je de code beter te lezen.
 
 ## Indentation
 
-Als het goed is, zie je nu een witte pagina met de tekst `Title` in het kopje van het tabblad. Gefeliciteerd! Je eerste website is een feit. Hij is alleen nog wel een beetje saai met die witte pagina. Daar gaan we zo dadelijk wat inhoud aan toevoegen, maar eerst is het belangrijk om te leren over **indentation**. Het is belangrijk dat je code altijd indent. Dit houdt in dat voor andere programmeurs makkelijk te zien moet zijn hoe je code in elkaar zit. Voor sommige programmeertalen is het zelfs verplicht om indentation te gebruiken, ze functioneren niet goed zonder indentation. Voor indentation gebruiken wij de Tabtoets. Voor indentation gelden meestal de volgende regels:
+Als het goed is, zie je nu een witte pagina met de tekst Title in het tabblad van je browser. Gefeliciteerd! Je eerste website is een feit. Hij is alleen nog wel een beetje saai met die witte pagina.  ￼
 
-Zorg ervoor dat de start en end tags altijd op 'hetzelfde niveau' zitten. Dit houdt in dat ze een gelijke afstand tot de linkerzijde van het scherm moeten hebben. Een uitzondering hierop is een tag die zo kort is dat de start en end tags op dezelfde regel kunnen staan. Zet ze in dit geval op dezelfde regel. Bijvoorbeeld:
+Sommige editors genereren de boilerplate met extra inspringing (indentation) voor `<head>` en `<body>` binnen `<html>`. In deze module houden we geen extra indentation op het `<html>`-niveau aan; de drie elementen staan op één lijn. De boilerplate zonder extra indentation ziet er zo uit: 
 
-``` html
-<p>
-    Dit is een lang stuk tekst waarbij de omringende start- en end tags op
-    hetzelfde niveau moeten zitten. Op deze manier hebben ze een gelijke
-    afstand tot de linkerzijde van het scherm en is de code overzichtelijk
-    voor alle programmeurs die het lezen. Hieronder staat een voorbeeld van
-    een korte regel tekst. Bij deze tekst zitten de start- en end tags op
-    één regel.
-</p>
-<p>Een kort stuk tekst.</p>
-```
-   
-Wanneer een tag binnen een andere tag valt dan mogen deze niet op hetzelfde niveau zitten. De binnenste tag moet een grotere afstand hebben tot de linkerkant dan de buitenste tag. Bijvoorbeeld:
-
-``` html
-<body>
-    <p>Een stuk tekst</p>
-</body>
-```
-
-En dus niet:
-
-``` html
-<body>
-<p>Een stuk tekst</p>
-</body>
-```
-
-De regels lijken nu een beetje ingewikkeld, maar als je goed kijkt naar de voorbeelden dan zie je het vanzelf terugkomen. De boilerplate code uit het begin van deze oefening volgt goede indentation. Je zult merken dat de boilerplate code binnen WebStorm er iets anders uit ziet. Veel programmeurs vinden het namelijk onzinnig om de `<head>` en `<body>` met indentation binnen `<html>` te zetten. Wij houden deze structuur ook aan en hebben die drie elements allemaal op één lijn staan. De boilerplate code *zonder* indentation ziet er zo uit:
-   
-``` html
+```html
 <!DOCTYPE html>
 <html lang="nl">
 <head>
@@ -61,15 +38,15 @@ De regels lijken nu een beetje ingewikkeld, maar als je goed kijkt naar de voorb
 </body>
 </html>
 ```
-   
-Vraag de eerste paar keren dat je programmeert aan klasgenoten of desnoods aan je docent of je indentation klopt. Voor meer informatie over indentation: <https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html#examples>
+Vraag de eerste paar keren dat je programmeert aan klasgenoten of aan je docent of je indentation klopt. Meer over indentation: [https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html#examples]
+
    
 ## Het p-element
 
 Nu gaan we dan toch echt aan de inhoud werken! Met het belangrijkste element heb je al een beetje kennisgemaakt, dat is namelijk `p`. Met dit element kun je een alinea maken.
 
 :::{exercise}
-Voeg in WebStorm een `p` toe binnen de body met wat tekst naar keuze. Zorg ervoor dat het er ongeveer zo uit komt te zien:
+Voeg in Visual Studio Code een `p` toe binnen de body met wat tekst naar keuze. Zorg ervoor dat het er ongeveer zo uit komt te zien:
 
 ``` html
 <body>
