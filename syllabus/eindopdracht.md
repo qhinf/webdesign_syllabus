@@ -105,8 +105,8 @@ Maak een CV! Bij het solliciteren voor een nieuwe baan wordt bijna altijd om je 
 
 Als je nog nooit een CV hebt gemaakt dan is [deze site](http://www.carrieretijger.nl/carriere/solliciteren/sollicitatiebrief-en-cv/cv-opstellen) misschien een goede plek om te beginnen. Als je al een CV hebt dan is het slechts een kwestie van die informatie in een goede website verwerken!
 
-Mocht je geen CV willen maken en nog steeds geen inspiratie hebben, kopieer en plak dan de volgende prompt in je favoriete AI chatbot.
+Mocht je geen CV willen maken en nog steeds geen inspiratie hebben, kopieer en plak dan de volgende prompt in je favoriete AI chatbot, bijvoorbeeld Gemini of ChatGPT.
 
-```
-  Ik maak de website zelf wel
-```
+
+    Je bent mijn creatieve webdesign-coach. Je helpt mij om drie leuke ideeën te bedenken voor een website die ik zelf kan bouwen met HTML5 en CSS3. De ideeën moeten aansluiten bij mijn interesses en hobby’s, zodat ik gemotiveerd ben om ermee aan de slag te gaan. Geef bij elk idee kort aan waarom het goed bij mij past en welke onderdelen (zoals tekst, afbeeldingen, navigatie of kleurgebruik) ik erin kan verwerken. Geef mij ideeën en beschrijvingen.
+
