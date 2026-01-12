@@ -25,13 +25,13 @@ Aan het eind van de module kun je
 
 Maak een website.
 
-<small>(deadline: donderdag 20 maart)</small>
+<small>(deadline: {{ eerste_inlevermoment }})</small>
 
 ---
 
 ## Syllabus
 
-[informatica.q-highschool.nl/webdesign](https://informatica.q-highschool.nl/webdesign)
+[informatica.q-highschool.nl/webdesign](../)
 
 ---
 
@@ -93,12 +93,12 @@ Notes:
   Antwoord: 200 OK met CSS code
 - 200 zie je niet vaak, maar 404 is wel heel bekend
 
----
+<!-- ---
 
 ### Servers bekijken?
 
 Notes:
-Uitje naar BIT in Ede met Linux en Servers. Waarschijnlijk in week 6, dat zou dan 27 februari zijn. Jullie mogen ook mee! Zet het alvast met potlood in je agenda, dan houd ik jullie op de hoogte.
+Uitje naar BIT in Ede met Linux en Servers. Waarschijnlijk in week 6, dat zou dan 27 februari zijn. Jullie mogen ook mee! Zet het alvast met potlood in je agenda, dan houd ik jullie op de hoogte. -->
 
 ---
 
@@ -274,7 +274,7 @@ Aanrader is Visual Studio Code. In de syllabus wordt nog beschreven hoe je met W
 
 ## Aan de slag
 
-1. Maak je benodigdheden in orde (WebStorm of VS Code)
+1. Maak je benodigdheden in orde (VS Code + extensies)
 2. Lees "HTML: Introductie" uit de [syllabus](https://informatica.q-highschool.nl/webdesign)
 3. Maak "Oefening 1 - Simpele elementen" (opdracht 1 t/m 8) uit de [syllabus](https://informatica.q-highschool.nl/webdesign)
 
