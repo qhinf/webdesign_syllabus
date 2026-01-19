@@ -93,13 +93,6 @@ Notes:
   Antwoord: 200 OK met CSS code
 - 200 zie je niet vaak, maar 404 is wel heel bekend
 
-<!-- ---
-
-### Servers bekijken?
-
-Notes:
-Uitje naar BIT in Ede met Linux en Servers. Waarschijnlijk in week 6, dat zou dan 27 februari zijn. Jullie mogen ook mee! Zet het alvast met potlood in je agenda, dan houd ik jullie op de hoogte. -->
-
 ---
 
 ### Website of webapp
