@@ -265,7 +265,7 @@ Pas de website aan <!-- .element: style="margin-top: 1em" -->
 - Een moderne webbrowser
 - Een editor met ondersteuning voor HTML en CSS
 
-(Zie ook de pagina in de [syllabus](https://informatica.q-highschool.nl/webdesign).)
+(Zie ook de pagina in de [syllabus](../benodigdheden.html).)
 
 Notes:
 Aanrader is Visual Studio Code. In de syllabus wordt nog beschreven hoe je met WebStorm werkt. Dat ga ik proberen zo snel mogelijk aan te passen, want installeren is niet eenvoudig.
@@ -275,8 +275,8 @@ Aanrader is Visual Studio Code. In de syllabus wordt nog beschreven hoe je met W
 ## Aan de slag
 
 1. Maak je benodigdheden in orde (VS Code + extensies)
-2. Lees "HTML: Introductie" uit de [syllabus](https://informatica.q-highschool.nl/webdesign)
-3. Maak "Oefening 1 - Simpele elementen" (opdracht 1 t/m 8) uit de [syllabus](https://informatica.q-highschool.nl/webdesign)
+2. Lees "HTML: Introductie" uit de [syllabus](../html/introductie.html)
+3. Maak "Oefening 1 - Simpele elementen" (opdracht 1 t/m 8) uit de [syllabus](../html/01_simpele_elementen.html)
 
 Notes:
 Dat is het "huiswerk". Evt demonstreren hoe je een HTML bestand maakt in VS Code.
