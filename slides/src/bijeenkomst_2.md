@@ -92,7 +92,7 @@ Welke attributen heeft dit element?
 
 ---
 
-Waarvoor is het element `<p>`?
+Waarvoor is het element `<a>`?
 
 - Lettertype
 - Kopje
@@ -103,7 +103,7 @@ Waarvoor is het element `<p>`?
 
 ---
 
-Waarvoor is het element `<a>`?
+Waarvoor is het element `<p>`?
 
 - Lettertype
 - Kopje
@@ -160,27 +160,14 @@ Geef betekenis aan structuur &rarr; goed voor schermlezers, zoekmachines, AI. Oo
 
 ---
 
-### Developer tools
+### Welke blokken zie je?
 
-- Te openen met <kbd>F12</kbd> of <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>i</kbd>
+![](./assets/bijeenkomst_2/demo_blokken_site.png)
 
-- In Safari: eerst aanzetten via *Safari* > *Instellingen* > *Geavanceerd* > *Toon Ontwikkel-menu in menubalk*
-  - Daarna te vinden in *Ontwikkel* menu of via <kbd>Cmd</kbd>+<kbd>Opt</kbd>+<kbd>i</kbd>
+<!-- .element: class="r-stretch" -->
 
----
-
-### Developer tools: opdracht
-
-<!-- .slide: style="text-align: left; font-size: .9em;" -->
-
-Ga naar een website en beantwoord de vragen:
-1. Waar staat de titel of de kop van de pagina in de HTML?
-2. Welk lettertype heeft die titel?
-3. Zoek een afbeelding op de pagina. Hoe staat dat in de HTML?
-
-Pas de website aan <!-- .element: style="margin-top: 1em" -->
-1. Verander de titel van de pagina in jouw naam
-2. Verander het lettertype van de titel
+Notes:
+Zie *demo.html* in de *webdesign* repo.
 
 ***
 
