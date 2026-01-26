@@ -193,7 +193,7 @@ Notes:
 
 ---
 
-![](assets/bijeenkomst_2/design_opdracht.png)
+[![](assets/bijeenkomst_2/design_opdracht.png)](../design/basisregels.html#design/basisregels-exercise-0)
 
 Notes:
 - 3-4 min voor (1)
@@ -259,7 +259,7 @@ Notes:
 
 ### "Huiswerk"
 
-Oefening 1 en 2 met jouw eigen blokkenstructuur
+[Oefening 1](../html/01_simpele_elementen.html) en [2](../html/02_organisatie.html) met jouw eigen blokkenstructuur
 
 Volgende week:\
 Basisregels voor goed design + Andere HTML elementen
