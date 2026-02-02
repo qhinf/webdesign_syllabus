@@ -232,6 +232,8 @@ Meer structuur met
   <li>Perry</li>
   <li>Millie</li>
   <li>Otje</li>
+  <li>Ruby</li>
+  <li>Wiesje</li>
 </ul>
 ```
 
@@ -247,6 +249,8 @@ Meer structuur met
   <li>Perry</li>
   <li>Millie</li>
   <li>Otje</li>
+  <li>Ruby</li>
+  <li>Wiesje</li>
 </ul>
 
 </div>
@@ -273,6 +277,8 @@ Notes:
   <li>Perry</li>
   <li>Millie</li>
   <li>Otje</li>
+  <li>Ruby</li>
+  <li>Wiesje</li>
 </ol>
 ```
 
@@ -288,6 +294,8 @@ Notes:
   <li>Perry</li>
   <li>Millie</li>
   <li>Otje</li>
+  <li>Ruby</li>
+  <li>Wiesje</li>
 </ol>
 
 </div>
@@ -295,7 +303,7 @@ Notes:
 
 Notes:
 - met `type` kun je aanpassen hoe geteld wordt
-  - in dev tools: `type="I"` toevoegen voor Romeinse cijfers
+  - in dev tools: `type="I"` toevoegen voor Romeinse cijfers (NB: `list-style-type` in de CSS uitvinken)
 
 ---
 
@@ -387,6 +395,25 @@ Naar welke pagina gaat de link?
 - [modules.html](modules.html)
 
 <!-- .element: class="mc" style="font-size: .8em;" -->
+
+---
+
+Naar welke pagina gaat de link?
+
+<small>Je bent op <https://q-highschool.nl/informatica/index.html></small>
+
+```html
+<a href="/spaans/index.html">
+  Spaans
+</a>
+```
+
+- <https://q-highschool.nl/spaans/index.html>
+- <https://q-highschool.nl/informatica/spaans/index.html>
+- <https:///spaans/index.html>
+- [/spaans/index.html](/spaans/index.html)
+
+<!-- .element: class="mc" style="font-size: .75em;" -->
 
 ***
 
