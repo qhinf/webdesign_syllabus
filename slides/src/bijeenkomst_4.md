@@ -127,7 +127,7 @@ Er is geen verschil in stijl tussen belangrijke en onbelangrijke zaken.
 ### Werken met CSS
 
 1. Maak een bestand *style.css*
-2. In de HTML code, tussen `<head>` en `</head>`:
+2. In de HTML code, tussen `<head>` en `</head>` <!-- .element: style="white-space: nowrap;" -->:
    ```html
    <link rel="stylesheet"
          type="text/css"
@@ -176,7 +176,7 @@ selector, property, waarde
 
   </div>
   </div>
-- Meerdere specifieke element: *class*
+- Meerdere specifieke elementen: *class*
   <div class="fragment" style="display: grid; grid-template-columns: 1fr 1fr;">
   <div>
 
@@ -370,7 +370,7 @@ Notes:
 
 ### Oefening
 
-Download *CSS Opdrachten.zip*, zie [syllabus](https://informatica.q-highschool.nl/webdesign)
+Download *CSS Opdrachten.zip*, zie [syllabus](../css/introductie.html#css/introductie-exercise-0)
 
 Begin bij Opdracht 7
 
@@ -390,6 +390,20 @@ Wie heeft een design meegenomen?
 Bespreek elkaars design. Kijk nog eens naar de regels voor goed design. Wat is goed? Wat kan beter?
 
 Geen design? Dit is het moment om daaraan te gaan werken.
+
+---
+
+### Volgende week
+
+Wat is usability testing?
+
+&nbsp;
+
+### Over 2 weken
+
+Aan de slag met usability testing
+
+Neem een design(schets) mee!
 
 ***
 
@@ -447,13 +461,19 @@ Notes:
 
 ```css
 font-weight: bold; /* normal */
-font-style italic; /* normal */
+font-style: italic; /* normal */
 
 text-decoration: underline;
 /* none, overline, line-through */
 ```
 
 <!-- .element: style="font-size: 1em" -->
+
+&nbsp;
+
+Voorbeeld
+
+<!-- .element: style="font-size: 1.5em; font-weight: bold; font-style: italic; text-decoration: underline;" -->
 
 ---
 
@@ -482,6 +502,20 @@ text-align: justify;
 ```
 
 <!-- .element: style="font-size: 1em;" -->
+
+&nbsp;
+
+`left` 
+
+<!-- .element: style="text-align: left;" -->
+
+`center` 
+
+<!-- .element: style="text-align: center;" -->
+
+`right` 
+
+<!-- .element: style="text-align: right;" -->
 
 ---
 
