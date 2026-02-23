@@ -29,9 +29,9 @@ Eindproducten die niet aan deze voorwaarden voldoen, kunnen geen voldoende score
 :widths: 1 2 2 2
 
 * - 
-  - Onvoldoende
-  - Voldoende
-  - Goed
+  - Onvoldoende (3)
+  - Voldoende (6)
+  - Goed (9)
 
 * - Design: uitvoering\*
   - Bijvoorbeeld:
@@ -110,7 +110,7 @@ Eindproducten die niet aan deze voorwaarden voldoen, kunnen geen voldoende score
 
 :::
 
-Indien een onderdeel geheel afwezig is, bijvoorbeeld bij een ontbrekend design document of het niet gebruiken van CSS, worden voor dat criterium 0 punten toegekend.
+Je cijfer is het gemiddelde van de 6 criteria uit de rubric. Voor het niveau *goed* staat in principe een 9, maar voor websites die boven die criteria uitstijgen of ze zeer consistent goed implementeren geven we een 10. Indien een onderdeel geheel afwezig is, bijvoorbeeld bij een ontbrekend design document of het niet gebruiken van CSS, dan rekenen we voor dat onderdeel een 1.
 
 **Bonus voor extra uitdaging**: zie {doc}`bijlage/extra` voor een aantal ideeën, maar voel je vrij om zelf met suggesties te komen. Met een zinvolle toepassing van een aantal van deze technieken in je website, kun je tot 1 punt bonus op je cijfer krijgen.
 
