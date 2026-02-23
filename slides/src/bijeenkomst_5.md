@@ -466,10 +466,10 @@ Noteer de belangrijkste problemen die je bij elke deelnemer gezien hebt
 
 ## Reminder: Eindopdracht
 
-Deadline: **donderdag 20 maart**
+Deadline: **{{ eerste_inlevermoment }}**
 
 Tweede inlevermoment?\
-Laat het voor **maandag 10 maart** weten!
+Laat het voor **{{ tweede_inlevermoment_melden }}** weten!
 
 ---
 

@@ -117,7 +117,7 @@ Nu heb je jouw eerste echte website gemaakt. Hij is nog redelijk simpel, maar je
     </head>
     <body>
         <img 
-            src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://q-highschool.nl/wp-content/uploads/2018/05/Logo_Q-highschool_2019.png"
+            src="sources/Logo_Q-highschool_2019.png"
             alt="q-highschool logo"
             width="200"
             height="60" />
