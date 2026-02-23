@@ -29,9 +29,9 @@ Eindproducten die niet aan deze voorwaarden voldoen, kunnen geen voldoende score
 :widths: 1 2 2 2
 
 * - 
-  - Onvoldoende (1)
-  - Voldoende (2)
-  - Goed (3)
+  - Onvoldoende
+  - Voldoende
+  - Goed
 
 * - Design: uitvoering\*
   - Bijvoorbeeld:
@@ -106,9 +106,7 @@ Eindproducten die niet aan deze voorwaarden voldoen, kunnen geen voldoende score
 
 Indien een onderdeel geheel afwezig is, bijvoorbeeld bij een ontbrekend design document of het niet gebruiken van CSS, worden voor dat criterium 0 punten toegekend.
 
-**Bonus voor extra uitdaging**: zie {doc}`bijlage/extra` voor een aantal ideeën, maar voel je vrij om zelf met suggesties te komen. Met een zinvolle toepassing van een aantal van deze technieken in je website, kun je tot 3 bonuspunten krijgen.
-
-Je cijfer berekenen we volgens $\frac{\text{aantal punten}}{18} \times 9 + 1$.
+**Bonus voor extra uitdaging**: zie {doc}`bijlage/extra` voor een aantal ideeën, maar voel je vrij om zelf met suggesties te komen. Met een zinvolle toepassing van een aantal van deze technieken in je website, kun je tot 1 punt bonus op je cijfer krijgen.
 
 \* Bij design hebben we het altijd over vuistregels, dus neem deze criteria met een korrel zout: voor een geheime sekte moet de website misschien juist niet heel overzichtelijk zijn... Met een goede uitleg kun je ook daarmee goede punten scoren!
 
