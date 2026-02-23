@@ -98,9 +98,15 @@ Eindproducten die niet aan deze voorwaarden voldoen, kunnen geen voldoende score
 
 * - CSS: structuur
   - Bijvoorbeeld:
-    - Alle CSS staat inline
+    - Alle CSS staat inline of in losse `<style>` blokken
+    - CSS regels worden niet hergebruikt voor meerdere pagina's
+    - Moeilijk leesbare code, bijvoorbeeld door onoverzichtelijke inspringing
   - Bijvoorbeeld:
+    - Er is minimaal één .css-bestand dat voor meerdere pagina's wordt gebruikt
+    - De juiste selectors (op element, class of id) worden gebruikt
   - Zoals *voldoende*, plus bijvoorbeeld:
+    - Stijlregels zijn efficiënt geschreven, met minimale herhaling, bijvoorbeeld door herbruikbare classes
+    - Er is zinvol gebruik gemaakt van cascading voor consistente stijling binnen elementen en specifiekere stijlen voor specieke elementen
 
 :::
 
