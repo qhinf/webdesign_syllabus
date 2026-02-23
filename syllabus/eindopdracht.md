@@ -125,6 +125,10 @@ Je levert je website in via de Inlever-knop op [app.q-highschool.nl](https://app
 3. Maak een .zip bestand volgens [deze instructies](https://informatica.q-highschool.nl/informatie/meerdere-bestanden-inleveren). Vergeet niet om ook je document met uitleg over je [design](eindopdracht_design) toe te voegen aan deze map!
 4. Lever het .zip-bestand in op [app.q-highschool.nl](https://app.q-highschool.nl).
 
+### In gesprek
+
+Omdat we graag willen weten hoe je tot jouw uitwerking van de eindopdracht bent gekomen, kunnen we je vragen voor een gesprek. Als we je niet in de les hebben gezien of we hebben het idee dat je je website niet zelf hebt geschreven, dan kun je natuurlijk sowieso rekenen op een uitnodiging. Als je hiervoor wordt gekozen, dan wordt je eindcijfer na afloop van dit gesprek bepaald. Wil je zelf graag iets uitleggen over je website? Geef dan bij je docent aan dat je ook graag een beoordelingsgesprek wilt hebben.
+
 ## Geen inspiratie?
 
 Maak een CV of portfolio! Bij het solliciteren voor een nieuwe baan wordt bijna altijd om je curriculum vitae (CV) gevraagd. Voor veel mensen is dit een simpel Word-bestandje of PDF waarin de werkervaring en opleidingen van een persoon staan. Vaak wordt daar ook nog een beetje informatie over jezelf aan toegevoegd. In onze ogen is dat allemaal een beetje achterhaald, wij vinden namelijk dat iedereen binnen de informaticawereld een online CV moet hebben! Dat is dan ook de opdracht, je gaat een website maken als vervanging voor je CV.
