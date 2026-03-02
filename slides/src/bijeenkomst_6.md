@@ -166,7 +166,7 @@ Wat test je met een usability test?
   <dt><code>width</code> en <code>height</code></dt><dd>breedte en hoogte</dd>
 </dl>
 
-Bonus: **flexbox** en **grid**
+En: **flexbox** en **grid**
 
 ---
 
@@ -236,89 +236,6 @@ Niet weergegeven (en neemt geen ruimte in)
 
 ---
 
-### Bonus: Grid
-
-<div style="display: grid; grid-template-columns: 2fr 1fr; align-items: center;">
-
-```css
-.box {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 100px 100px;
-}
-
-p {
-  border: 4px solid #f1881c;
-}
-```
-
-```html
-<div class="box">
-  <p>1</p>
-  <p>2</p>
-  <p>3</p>
-  <p>4</p>
-</div>
-```
-
-<div style="border: 2px solid black; padding: 12px; grid-column: span 2; display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 100px 100px;">
-  <p style="border: 4px solid #f1881c;">1</p>
-  <p style="border: 4px solid #f1881c;">2</p>
-  <p style="border: 4px solid #f1881c;">3</p>
-  <p style="border: 4px solid #f1881c;">4</p>
-</div>
-
-<div>
-
----
-
-### Bonus: Grid
-
-[CSS Tricks: CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
-
----
-
-### Bonus: Flexbox
-
-<div style="display: grid; grid-template-columns: 2fr 1fr; align-items: center;">
-
-```css
-.box {
-  display: flex;
-  justify-content: space-between;
-}
-
-p {
-  border: 4px solid #f1881c;
-}
-```
-
-```html
-<div class="box">
-  <p>1</p>
-  <p>2</p>
-  <p>3</p>
-  <p>4</p>
-</div>
-```
-
-<div style="border: 2px solid black; padding: 12px; grid-column: span 2; display: flex; justify-content: space-between;">
-  <p style="border: 4px solid #f1881c;">1</p>
-  <p style="border: 4px solid #f1881c;">2</p>
-  <p style="border: 4px solid #f1881c;">3</p>
-  <p style="border: 4px solid #f1881c;">4</p>
-</div>
-
-<div>
-
----
-
-### Bonus: Flexbox
-
-[CSS Tricks: CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
----
-
 ### Links
 
 ```css[1|2|3|4]
@@ -378,18 +295,108 @@ Je test niet de gebruiker maar jouw design! <!-- .element: class="fragment" -->
   1. Bedenk: wat ga je verbeteren?
   2. Verbeter je prototype
   3. Verwerk dat in je eindopdracht
-  4. Ga verder met Opdracht 11/12
 
 Notes:
 Dus twee rondes: eerst test je jouw site, daarna ben je deelnemer (of andersom)
 
 ***
 
-## Na de vakantie
+## CSS: Moderne layout met<br/>flexbox en grid
+
+---
+
+### Grid
+
+<div style="display: grid; grid-template-columns: 2fr 1fr; align-items: center;">
+
+```css
+.box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 100px 100px;
+}
+
+p {
+  border: 4px solid #f1881c;
+}
+```
+
+```html
+<div class="box">
+  <p>1</p>
+  <p>2</p>
+  <p>3</p>
+  <p>4</p>
+</div>
+```
+
+<div style="border: 2px solid black; padding: 12px; grid-column: span 2; display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 100px 100px;">
+  <p style="border: 4px solid #f1881c;">1</p>
+  <p style="border: 4px solid #f1881c;">2</p>
+  <p style="border: 4px solid #f1881c;">3</p>
+  <p style="border: 4px solid #f1881c;">4</p>
+</div>
+
+<div>
+
+Notes:
+Devtools demo:
+- met verschillende properties van het voorbeeld, column configuraties, justify-items, gap
+- deze slide is een grid layout, grid-column
+
+---
+
+### Grid
+
+[CSS Tricks: CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+---
+
+### Flexbox
+
+<div style="display: grid; grid-template-columns: 2fr 1fr; align-items: center;">
+
+```css
+.box {
+  display: flex;
+  justify-content: space-between;
+}
+
+p {
+  border: 4px solid #f1881c;
+}
+```
+
+```html
+<div class="box">
+  <p>1</p>
+  <p>2</p>
+  <p>3</p>
+  <p>4</p>
+</div>
+```
+
+<div style="border: 2px solid black; padding: 12px; grid-column: span 2; display: flex; justify-content: space-between;">
+  <p style="border: 4px solid #f1881c;">1</p>
+  <p style="border: 4px solid #f1881c;">2</p>
+  <p style="border: 4px solid #f1881c;">3</p>
+  <p style="border: 4px solid #f1881c;">4</p>
+</div>
+
+<div>
+
+---
+
+### Flexbox
+
+[CSS Tricks: CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+***
+
+## Volgende week
 
 Laatste bijeenkomst, online
 
-Opdracht 11/12 bespreken\
 Vragenuur\
 Hoe lever je dit in?\
 Hoe zet je dit online? (Als je dat wilt.)
