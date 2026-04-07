@@ -69,7 +69,7 @@ Eindproducten die niet aan deze voorwaarden voldoen, kunnen geen voldoende score
     - Correcte inspringing
     - De link tussen de pagina en de browser en HTML elementen is makkelijk te herkennen
   - Zoals *voldoende*, plus bijvoorbeeld:
-    - Consistente en overzichtelijke opbouow
+    - Consistente en overzichtelijke opbouw
     - Logische bestandsstructuur
 
 * - HTML: structuur
