@@ -26,6 +26,19 @@ En tot slot, enkele belangrijke data:
 - Tweede inlevermoment voor de eindopdracht: **{{ tweede_inlevermoment }}**
   - Meld je voor **{{ tweede_inlevermoment_melden }}** om het tweede inlevermoment te gebruiken
 
+:::{seealso}
+
+Wil je na deze module verder met het bouwen van websites en webapps? Kijk dan ook eens bij:
+
+- [*Programmeren met JavaScript*](https://informatica.q-highschool.nl/javascript): je weet nu hoe je met HTML en CSS een website bouwt, maar voor een interactieve site of zelfs een hele app heb je nog een programmeertaal nodig: JavaScript. In deze module leer je hoe je met deze taal de leukste interactieve websites maakt.
+
+Vond je de design-kant van deze module leuk? Kijk dan eens bij deze modules:
+
+- Gamedesign: wil je alles weten over hoe je een goede game ontwikkelt, die mensen kunnen én willen spelen? Dan is deze dagmodule iets voor jou!
+- [Basis van Computer Science](https://informatica.q-highschool.nl/basis_cs): in deze module ontleden we een systeem vanuit alle hoeken van de informatica, inclusief de gebruiksvriendelijkheid. Je krijgt de opdracht om een bestaand systeem te verbeteren met een papieren prototype en dat te testen in een kleine usability-test.
+
+:::
+
 Inhoudsopgave:
 
 ```{tableofcontents}
