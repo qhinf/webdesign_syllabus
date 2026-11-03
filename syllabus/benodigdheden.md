@@ -1,41 +1,32 @@
-(=benodigdheden)
 # Benodigdheden
 
 Om deze module goed te kunnen volgen, heb je de volgende programma's nodig:
 
-## Browser
-- Een moderne webbrowser, zoals [Chrome](https://www.google.com/chrome/) (of een van de andere Chromium browsers, zoals [Edge](https://www.microsoft.com/edge), [Vivaldi](https://vivaldi.com/), [Opera](https://www.opera.com/) of [Brave](https://brave.com/)), [Firefox](https://www.mozilla.org/firefox/new/) of [Safari](https://www.apple.com/safari/). Internet Explorer of WebKit browsers anders dan Safari raden we af, omdat deze browsers niet altijd goed met moderne HTML en CSS versies overweg kunnen.
+## Een browser
 
-## Editor
-Een editor met ondersteuning voor HTML en CSS. We raden *Visual Studio Code* aan en werken eraan om de syllabus te herschrijven met de juiste commando's daarvoor.
+Een moderne webbrowser, zoals [Chrome](https://www.google.com/chrome/) (of een van de andere Chromium browsers, zoals [Edge](https://www.microsoft.com/edge), [Vivaldi](https://vivaldi.com/), [Opera](https://www.opera.com/) of [Brave](https://brave.com/)), [Firefox](https://www.mozilla.org/firefox/new/) of [Safari](https://www.apple.com/safari/). Internet Explorer of WebKit browsers anders dan Safari raden we af, omdat deze browsers niet altijd goed met moderne HTML en CSS versies overweg kunnen.
+
+## Een editor: VS Code
+
+Een editor met ondersteuning voor HTML en CSS. Daarvan zijn er een heleboel, maar wij raden *Visual Studio Code* aan.
 
 Visual Studio Code kun je installeren vanaf [hun website](https://code.visualstudio.com/) en de installatie spreekt redelijk voor zich. De meeste standaard-opties zijn prima, maar het is aan te raden om ook de *Add 'Open with Code' action to Windows Explorer ...* opties aan te vinken.
 
-  ![Select Additional Tasks scherm in de Visual Studio Code installer.](assets/benodigdheden/vscode_installer.png)
+![Select Additional Tasks scherm in de Visual Studio Code installer.](assets/benodigdheden/vscode_installer.png)
 
-## Live Server installeren (VS Code)
-Wanneer je geschreven code wil bekijken in je browser, dan kun je in Visual Studio Code een plugin schrijven, die dat automatisch voor je regelt. Er komt dan heel tijdelijk een echte webserver te draaien op je computer.
+Als VS Code opent, dan krijg je de vraag om in te loggen. Dat kun je doen, maar is niet nodig, dus voel je vrij om die popup weg te klikken.
 
-1. Open **Visual Studio Code**.
-2. Ga naar **Extensions** (⌘⇧X op macOS / Ctrl+Shift+X op Windows).
-3. Zoek **“Live Server”** en installeer de extensie van **Ritwick Dey**  
-   (ID: `ritwickdey.LiveServer`).
-4. Herstart VS Code als daarom wordt gevraagd.
+### Extensie: Live Server
+
+Met [*Live Server*](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) kun je vanuit Visual Studio Code jouw website direct in de browser openen. Als je aanpassingen maakt in de code, wordt je website automatisch ververst, zodat je direct het resultaat kunt zien.
+
+Open het *Extensions* paneel in de linkerzijbalk (dat is die met vier blokjes, waarvan er eentje scheef staat) en zoek naar *Live Server* gemaakt door *Ritwick Dey*. Klik op *Install* bij die extensie en geef aan dat je de ontwikkelaar vertrouwt als daarom wordt gevraagd.
+
+Als je een pagina van je website open hebt in VS Code, klik je rechtsonder op *Go Live* om de pagina te openen in je browser. Laat de pagina openstaan! Wijzigingen die je maakt in je code worden dan automatisch daar weergegeven. De *Go Live* knop veranderd daarna in een stop knop, waarmee je de server weert kunt stoppen.
 
 
-**Gebruiken**
-- (Als je dit nog niet gedaan hebt)
-  Open je websitemap in VS Code (**Bestand → Map openen…**).
-- Open `index.html` en kies **Open with Live Server** (rechtermuisknop),  
-  of klik **Go Live** rechtsonder.
-- De site opent op `http://localhost:5500`. Wijzigingen verschijnen na **Opslaan** van je bestand.
-- Stoppen: klik opnieuw op **Go Live** (of op de poort-indicator).
+### Extensie: W3C Web Validator
 
-## Validator extension installeren (VS Code)
-In VS Code kun je met een validator-plugin je HTML en CSS direct laten controleren.
+Met [*W3C Web Validator*](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator) kun je makkelijk laten checken of je code voldoet aan de standaarden voor HTML en CSS.
 
-1.	Open Visual Studio Code.
-2.	Open Extensions (Windows/Linux: Ctrl+Shift+X, macOS: Cmd+Shift+X).
-3.	Zoek op “W3C Web Validator”.
-4.	Klik op W3C Web Validator en daarna op Install.
-
+Open het *Extensions* paneel in de linkerzijbalk (dat is die met vier blokjes, waarvan er eentje scheef staat) en zoek naar *W3C Web Validator* gemaakt door *Celian Riboulet*. Klik op *Install* bij die extensie en geef aan dat je de ontwikkelaar vertrouwt als daarom wordt gevraagd.
