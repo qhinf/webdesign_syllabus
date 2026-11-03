@@ -3,7 +3,7 @@
 :::{exercise}
 Start **Visual Studio Code (VS Code)** en maak je projectmap aan.
 
-1. **Map openen:** *File → Open Folder…* en kies/maak een map **WebDevelopment**.  
+1. **Map openen:** *File → Open Folder…* en kies/maak een map **Webdesign**.  
 2. **Oefening-map aanmaken:** Maak in de Verkenner (links) een map **Opdracht_1**.  
 3. **Nieuw bestand:** Maak in **Opdracht_1** een bestand **index.html**.  
 4. **Boilerplate toevoegen:** Typ `!` en druk **Tab** (of **Enter**) om via *Emmet* de HTML-boilerplate in te voegen.  
@@ -15,7 +15,7 @@ Voor de meeste mensen geldt dat ze dingen beter onthouden en begrijpen als ze he
 :::{exercise}
 Bekijk je pagina in de browser.
 
-**Aanbevolen (Live Server-extensie):** Rechtsklik op **index.html** → *Open with Live Server*. De pagina opent en ververst automatisch bij wijzigingen.  
+**Aanbevolen (Live Server-extensie):** Rechtsklik op **index.html** → *Open with Live Server*. De pagina opent en ververst automatisch bij wijzigingen (je kunt dus het beste de pagina open laten staan!).
 **Zonder extensie:** Open de map in je bestandsbeheer en dubbelklik **index.html** om deze in je browser te openen.
 :::
 
@@ -38,7 +38,8 @@ Sommige editors genereren de boilerplate met extra inspringing (indentation) voo
 </body>
 </html>
 ```
-Vraag de eerste paar keren dat je programmeert aan klasgenoten of aan je docent of je indentation klopt. Meer over indentation: [https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html#examples]
+
+Vraag de eerste paar keren dat je programmeert aan klasgenoten of aan je docent of je indentation klopt. In VS Code kun je met de sneltoets *Ctrl+Shift+i* je code automatisch laten uitlijnen met een logische inspringing (maar let op: dat werkt alleen goed als je alle elementen netjes hebt afgesloten).
 
    
 ## Het p-element
@@ -106,56 +107,64 @@ In theorie is het mogelijk om een afbeelding te allen tijde vanaf het internet t
 
 Nu heb je jouw eerste echte website gemaakt. Hij is nog redelijk simpel, maar je mag echt wel trots op jezelf zijn. Dit is een voorbeeld van hoe je website eruit zou kunnen zien:
 
-![](../assets/image5.png)
+![](../assets/demosite_elementen.png)
 
 ``` html
 <!DOCTYPE html>
 <html lang="nl">
-    <head>
-        <meta charset="utf-8" />
-        <title>Q-vakken</title>
-    </head>
-    <body>
-        <img 
-            src="sources/Logo_Q-vakken_2019.png"
-            alt="q-highschool logo"
-            width="200"
-            height="60" />
-        <p>
-            De <b>Q-vakken</b> is een initiatief van Quadraam,
-            Gelderse Onderwijs Groep, en maakt en organiseert innovatief onderwijs
-            waaraan alle leerlingen van de dertien Quadraamscholen kunnen deelnemen.
-            <br /><i>Jij</i> dus ook!<br /> Er zijn vier
-            leidende principes die richting geven aan het onderwijsaanbod en de
-            werkwijze binnen de Q-vakken. Deze kenmerken zijn hieronder
-            beschreven en geven aan waar de Q-vakken voor staat.
-        </p>
-        <img src="sources/logo-quadraam.jpg" alt="foto" width="150" />
-        <h3>Open leersysteem</h3>
-        <p>
-            Met een <b>netwerk</b> van leerlingen, hun ouders en
-            medewerkers wordt de buitenwereld toegankelijk gemaakt, waardoor
-            expertise en leermogelijkheden haast oneindig voorradig zijn.
-        </p>
-        <h3>Leren is groeien</h3>
-        <p>
-            Experimenteren, fouten maken, opnieuw beginnen, of het gewoon anders
-            doen, mag dan ook binnen de Q-vakken.
-            De<b>leerervaring</b> weegt zwaarder dan het eindresultaat.
-        </p>
-        <h3>Regie bij de leerling</h3>
-        <p>
-            Wij geloven erin dat leerlingen zelf
-            <b>verantwoordelijkheid</b> kunnen nemen voor (delen van)
-            hun eigen leerproces. Q-vakken biedt daarvoor de ruimte en de
-            mogelijkheden.
-        </p>
-        <h3>Leren omdat het ertoe doet</h3>
-        <p>
-            Om te leren heb je hoofd, hart en handen nodig. Leren is ervaren,
-            denken, doen en zijn. In de Q-vakken nemen leerlingen deel aan
-            <b>leeractiviteiten die ertoe doen.</b>
-        </p>
-    </body>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Q-vakken</title>
+</head>
+
+<body>
+    <img src="sources/QUA_LOGOS_PROGRAMMA.png" alt="Q-vakken logo" height="150px" />
+    <p>
+        <i>Spaans</i>, <i>filosofie</i> of <i>informatica</i> in jouw
+        vakkenpakket? Het kan met <b>Q-vakken</b>. Er valt nog veel meer te
+        kiezen. Dit zijn vakken die je gewoon via je eigen school volgt. Check
+        het aanbod hieronder. Wil je jouw vakkenpakket uitbreiden? Loop dan
+        direct even langs bij je decaan!
+    </p>
+    <h2>Bepaal je eigen programma!</h2>
+    <h3>Eigen regie</h3>
+    <p>
+        Elk Q-vak is opgebouwd uit <i>modules</i>. Je volgt een aantal
+        verplichte onderdelen en kiest daarnaast zelf je keuzemodules. Zo bepaal
+        je zelf het startmoment, het tempo en de inhoud van jouw vak. Je hebt
+        dus echt zelf de <b>regie over wat en hoe je leert</b>.
+    </p>
+    <h3>Module</h3>
+    <p>
+        Een module is een afgerond leertraject van 8 weken. Je focust je hierin
+        op de theorie en de praktijk van één thema binnen jouw gekozen vak. Na 7
+        weken sluit je de module af met een <b>toets</b> of een <b>praktische
+        opdracht</b>. Heb je dit afgerond? Dan heb je dit onderdeel direct
+        binnen.
+    </p>
+    <h3>Online of fysiek</h3>
+    <p>
+        Bij de Q-vakken wissel je <b>online lessen</b> af met <b>bijeenkomsten
+        op locatie</b>. Er is een vast rooster voor de online en fysieke lessen.
+        De ene week kom je fysiek samen met andere leerlingen op een van de
+        Quadraam-scholen. Je deelt daar kennis en ervaringen. De andere week
+        volg je een online les. Daarnaast werk je <b>zelfstandig</b> aan de
+        online lesstof op momenten die in je rooster passen.
+    </p>
+    <h3>Locatie</h3>
+    <p>
+        Een Q-vak-les vindt niet altijd plaats op je eigen school. Er doen
+        namelijk leerlingen van verschillende scholen mee. We kiezen daarom een
+        <i>centrale locatie</i> die voor iedereen goed bereikbaar is. Ligt deze
+        locatie verder dan 7 kilometer van jouw eigen school? Dan regelen we een
+        <b>taxi</b> voor je.
+    </p>
+    <p>
+        De Q-vakken zijn een initiatief van Quadraam.
+    </p>
+    <img src="sources/QUA_LOGO_QUA_Logo_payoff_small.png" alt="Quadraam logo" height="100px" />
+</body>
+
 </html>
 ```

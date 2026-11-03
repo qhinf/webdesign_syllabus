@@ -20,8 +20,8 @@ Nu hebben we twee pagina's: één startpagina en één contactpagina. Je kunt ec
 
 De koppelingslocatie is in dit geval `contact.html`, omdat de bestanden in dezelfde map staan. In andere situaties moet hier het pad naar het bestand worden gebruikt. In de volgende situatie bijvoorbeeld:
 
--   *`*index.html*`* zit in een map genaamd `WebDevelopment`.
--   De map `contactmap` zit in de map `WebDevelopment`.
+-   *`*index.html*`* zit in een map genaamd `Webdesign`.
+-   De map `contactmap` zit in de map `Webdesign`.
 -   *`*contact.html*`* zit in de map `contactmap`.
 
 Nu is het pad tussen `index.html` en `contact.html`: `contactmap/contact.html`.

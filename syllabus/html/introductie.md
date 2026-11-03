@@ -1,8 +1,8 @@
 # HTML: Introductie
 
-HTML staat voor **HyperText** **Markup** **Language**. Hierbij is HyperText de techniek waarmee een verbinding wordt gemaakt met bijvoorbeeld een andere webpagina. Markup staat voor het systeem waar de programmeertaal zich aan houdt: de manier waarop een document is opgebouwd, is hetzelfde als de website die je uiteindelijk ziet. Als een plaatje boven de tekst staat in HTML, zal dat op de website ook zo zijn. Language betekent hier programmeertaal. HTML is dus een programmeertaal waarbij verbindingen tussen componenten gemaakt kunnen worden en waarbij de uiteindelijke visuele uitkomst identiek is aan de code. Simpeler gezegd is HTML de absolute basis van de website. Met HTML worden alle onderdelen van de website 'getekend' waardoor je geen lege pagina hebt.
+HTML staat voor **HyperText** **Markup** **Language**. Hierbij is HyperText een tekst met *hyper*linkjes naar andere pagina's op het web. Markup staat voor het systeem waar de programmeertaal zich aan houdt: de manier waarop een document is opgebouwd, is hetzelfde als de website die je uiteindelijk ziet. Als een plaatje boven de tekst staat in HTML, zal dat op de website ook zo zijn. Language betekent hier programmeertaal. HTML is dus een programmeertaal waarbij verbindingen tussen componenten gemaakt kunnen worden en waarbij de uiteindelijke visuele uitkomst identiek is aan de code. Simpeler gezegd is HTML de absolute basis van de website. Met HTML worden alle onderdelen van de website 'getekend' waardoor je geen lege pagina hebt.
 
-Alle websites op het **World Wide Web** (en veel daarbuiten) zijn in de basis gemaakt met HTML. Deze code wordt geladen vanaf een zogenoemde **Webserver**. Veel over webservers hoef je niet te weten, alleen dat het een computer is waarop bestanden kunnen worden opgeslagen en weer geladen kunnen worden. Dat opslaan en laden wordt gedaan vanaf andere computers zoals die van jou. Op deze webservers staan vooral HTML-bestanden, deze bestanden eindigen op `.html`. Het belangrijkste bestand van de hele website heet `index.html`. Dit komt door een afspraak die vroeger is gemaakt. Bij het contact maken met een webserver voor het laden van een website, geeft de server standaard dat bestand aan je computer. Dit is dan ook het bestand wat vervolgens wordt weergegeven.
+Alle websites op het **World Wide Web** (en veel daarbuiten) zijn in de basis gemaakt met HTML. Deze code wordt geladen vanaf een zogenoemde **webserver**. Veel over webservers hoef je niet te weten, alleen dat het een computer is waarop bestanden kunnen worden opgeslagen en weer geladen kunnen worden. Dat opslaan en laden wordt gedaan vanaf andere computers zoals die van jou. Op deze webservers staan vooral HTML-bestanden, deze bestanden eindigen op `.html`. Het belangrijkste bestand, de homepagina, van de hele website heet `index.html`. Dit komt door een afspraak die vroeger is gemaakt: als een computer niet om een specifieke pagina vraagt bij de webserver, dan geeft die standaard de `index.html` terug. Dit is dan ook het bestand wat vervolgens wordt weergegeven.
 
 Wanneer je online zelf onderzoek doet naar HTML dan ga je een paar nieuwe termen tegenkomen. Hieronder staan de belangrijkste termen uitgelegd.
 
@@ -27,12 +27,12 @@ Een HTML-bestand heeft altijd een standaard opbouw, dit wordt ook wel de **boile
 ``` html
 <!DOCTYPE html>
 <html lang="nl">
-    <head>
-        <meta charset="utf-8"/>
-        <title>Hello World</title>
-    </head>
-    <body>
-    </body>
+<head>
+    <meta charset="utf-8"/>
+    <title>Hello World</title>
+</head>
+<body>
+</body>
 </html>
 ```
 
@@ -86,5 +86,3 @@ In een HTML-bestand kom je vaak de volgende stukken code tegen: `<!-- Comment --
 Nu is het tijd om zelf te gaan bouwen aan een website en om de verschillende elements te leren kennen. *Wanneer je een element of tag niet helemaal begrijpt, kun je in Appendix B meer informatie over de tags vinden en over de wijze waarop je ze moet gebruiken.*
 
 In deze module gebruiken we **Visual Studio Code (VS Code)** om prettig en snel te werken. VS Code is een krachtige code-editor die je helpt met o.a. syntax-kleuring, foutmeldingen in het **Problems-paneel** en uitbreidbaarheid via extensies (bijv. Live Server om je pagina direct te bekijken en automatisch te verversen). VS Code kan in het begin uitgebreid ogen, maar geen paniek: je leert stap voor stap precies wat je nodig hebt; veel geavanceerde functies heb je nu nog niet nodig. De oefeningen vind je op de volgende pagina’s.
-
-De oefeningenen vind je op de volgende pagina's.

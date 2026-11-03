@@ -100,7 +100,7 @@ Meer informatie over semantic elements kan je hier vinden: [https://www.w3school
 
 :::{exercise}
 Maak een kopie van de website die je in Oefening 1 hebt gemaakt.
-	1.	Open de map van je project in VS Code: File → Open Folder… en kies de map WebDevelopment (of waar je je project hebt).
+	1.	Open de map van je project in VS Code: File → Open Folder… en kies de map Webdesign (of waar je je project hebt).
 	2.	Maak een nieuwe map: Open de Explorer (linker zijbalk). Klik op New Folder en noem de map Opdracht_2.
 	3.	Kopieer index.html: Klik in de Explorer op Opdracht_1/index.html, druk Ctrl+C (macOS: Cmd+C), selecteer Opdracht_2 en druk Ctrl+V (macOS: Cmd+V).
 	4.	Open Opdracht_2/index.html en pas het bestand aan zodat het voldoet aan de standaardindeling met semantische elementen (header, nav, section, article, aside, footer). Laat het controleren door klasgenoten of de docent.

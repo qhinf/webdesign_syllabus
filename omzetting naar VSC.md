@@ -1,5 +1,5 @@
 - [x] benodigdheden.html
-- [ ] introductie.html
+- [x] introductie.html
 - [ ] 01_simpele_elementen.html
 - [ ] 02_organisatie.html
 - [ ] 05_validatie.html

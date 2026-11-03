@@ -120,10 +120,9 @@ Je cijfer is het gemiddelde van de 6 criteria uit de rubric. Voor het niveau *go
 
 Je levert je website in via de Inlever-knop op [app.q-vakken.nl](https://app.q-vakken.nl). Je kunt daar maar één bestand inleveren, dus moet je alle bestanden van je website (HTML, CSS, afbeeldingen, etc.) een .zip bestand maken.
 
-1. Zorg dat alle bestanden in één map staan en open die map als project in **Visual Studio Code** (*Bestand → Map openen…*).
-2. Open die map in de Verkenner (Windows) of Finder (macOS). Dat kan direct vanuit **Visual Studio Code**: klik in de VS Code **Explorer** met rechts op je projectmap en kies *Reveal in File Explorer* (Windows) of *Reveal in Finder* (macOS).
-3. Maak een .zip bestand volgens [deze instructies](https://informatica.q-vakken.nl/informatie/meerdere-bestanden-inleveren). Vergeet niet om ook je document met uitleg over je [design](eindopdracht_design) toe te voegen aan deze map!
-4. Lever het .zip-bestand in op [app.q-vakken.nl](https://app.q-vakken.nl).
+1. Zorg dat alle bestanden in één map staan en open die map in de Verkenner (Windows) of Finder (macOS). Dat kan direct vanuit VS Code: klik in de **Explorer** (de lijst met bestanden aan de linkerkand) met rechts op je projectmap en kies *Reveal in File Explorer* (Windows) of *Reveal in Finder* (macOS).
+2. Maak een .zip bestand volgens [deze instructies](https://informatica.q-vakken.nl/informatie/meerdere-bestanden-inleveren). Vergeet niet om ook je document met uitleg over je [design](eindopdracht_design) toe te voegen aan deze map!
+3. Lever het .zip-bestand in op [app.q-vakken.nl](https://app.q-vakken.nl).
 
 ### In gesprek
 
