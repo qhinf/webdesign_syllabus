@@ -1,6 +1,6 @@
 # Webdesign
 
-Q-highschool / Bijeenkomst 2
+Q-vak Informatica / Bijeenkomst 2
 
 ---
 
@@ -42,12 +42,12 @@ Waarvoor gebruik je CSS?
 Wat is de *end tag* van dit element?
 
 ```html
-<a href="https://q-highschool.nl">
-  Q-highschool
+<a href="https://q-vakken.nl">
+  Q-vakken
 </a>
 ```
 
-- `<a href="https://q-highschool.nl">`
+- `<a href="https://q-vakken.nl">`
 - `<a/>`
 - `href`
 - `</a>`
@@ -61,7 +61,7 @@ Dit element heeft...
 ```html
 <img
     src="sources/logo.svg"
-    alt="Q-highschool logo"
+    alt="Q-vakken logo"
 />
 ```
 
@@ -79,7 +79,7 @@ Welke attributen heeft dit element?
 ```html
 <img
     src="sources/logo.svg"
-    alt="Q-highschool logo"
+    alt="Q-vakken logo"
 />
 ```
 

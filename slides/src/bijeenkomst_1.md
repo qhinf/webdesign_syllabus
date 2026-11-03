@@ -1,6 +1,6 @@
 # Webdesign
 
-Q-highschool / Bijeenkomst 1
+Q-vak Informatica / Bijeenkomst 1
 
 ---
 
@@ -31,7 +31,7 @@ Maak een website.
 
 ## Syllabus
 
-[informatica.q-highschool.nl/webdesign](../)
+[informatica.q-vakken.nl/webdesign](../)
 
 ---
 
@@ -85,7 +85,7 @@ Je typt een adres, drukt op enter, en dan?
 
 Notes:
 
-- DNS: Waar is q-highschool.nl?
+- DNS: Waar is q-vakken.nl?
   Antwoord: IP adres
 - HTTP GET /
   Antwoord: 200 OK met HTML code
@@ -121,7 +121,7 @@ Interactief
 ### 👍 Website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;webapp? ❤️
 
 q-higschool.nl\
-app.q-highschool.nl\
+app.q-vakken.nl\
 nl.wikipedia.org\
 nos.nl\
 tldraw.com\
@@ -134,8 +134,8 @@ Ik zet ze één voor één in de Teams chat, antwoord daar met een reactie.
 Websites maak je met HTML en CSS, voor webapps heb je JavaScript nodig. Deze module doen we websites.
 
 Om te kopiëren:\
-q-highschool.nl\
-app.q-highschool.nl\
+q-vakken.nl\
+app.q-vakken.nl\
 nl.wikipedia.org\
 nos.nl\
 tldraw.com\
@@ -194,16 +194,16 @@ element, empty tag -> blok zonder inhoud
 ---
 
 ```html
-<a href="https://q-highschool.nl">
-    Q-highschool
+<a href="https://q-vakken.nl">
+    Q-vakken
 </a>
 ```
 <!-- .element: style="font-size: 1em;" -->
 
 &nbsp;
 
-<a href="https://q-highschool.nl">
-    Q-highschool
+<a href="https://q-vakken.nl">
+    Q-vakken
 </a>
 <!-- .element: class="fragment" -->
 
@@ -215,14 +215,14 @@ element, start tag, end tag, attribuut (type " met shift)
 ```html
 <img
     src="sources/logo.svg"
-    alt="Q-highschool logo"
+    alt="Q-vakken logo"
 />
 ```
 <!-- .element: style="font-size: 1em;" -->
 
 &nbsp;
 
-![Q-highschool logo](assets/bijeenkomst_1/logo.png)<!-- .element: class="fragment" style="max-height: 4em;" -->
+![Q-vakken logo](assets/bijeenkomst_1/logo.png)<!-- .element: class="fragment" style="max-height: 4em;" -->
 
 Notes:
 element, empty tag, 2 attributen: *s*ou*rc*e en *alt*ernatieve tekst

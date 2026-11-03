@@ -1,6 +1,6 @@
 # Webdesign
 
-Q-highschool / Bijeenkomst 3
+Q-vak Informatica / Bijeenkomst 3
 
 ---
 
@@ -22,7 +22,7 @@ Dit element heeft...
 ```html
 <img
     src="sources/logo.svg"
-    alt="Q-highschool logo"
+    alt="Q-vakken logo"
 />
 ```
 
@@ -310,7 +310,7 @@ Notes:
 ### Links
 
 ```html
-<a href="https://informatica.q-highschool.nl/webdesign">
+<a href="https://informatica.q-vakken.nl/webdesign">
   Syllabus
 </a>
 ```
@@ -381,7 +381,7 @@ Waarvoor is het element `<tr>`?
 
 Naar welke pagina gaat de link?
 
-<small>Je bent op <https://q-highschool.nl/informatica/index.html></small>
+<small>Je bent op <https://q-vakken.nl/informatica/index.html></small>
 
 ```html
 <a href="modules.html">
@@ -389,8 +389,8 @@ Naar welke pagina gaat de link?
 </a>
 ```
 
-- <https://q-highschool.nl/modules.html>
-- <https://q-highschool.nl/informatica/modules.html>
+- <https://q-vakken.nl/modules.html>
+- <https://q-vakken.nl/informatica/modules.html>
 - <https://modules.html>
 - [modules.html](modules.html)
 
@@ -400,7 +400,7 @@ Naar welke pagina gaat de link?
 
 Naar welke pagina gaat de link?
 
-<small>Je bent op <https://q-highschool.nl/informatica/index.html></small>
+<small>Je bent op <https://q-vakken.nl/informatica/index.html></small>
 
 ```html
 <a href="/spaans/index.html">
@@ -408,8 +408,8 @@ Naar welke pagina gaat de link?
 </a>
 ```
 
-- <https://q-highschool.nl/spaans/index.html>
-- <https://q-highschool.nl/informatica/spaans/index.html>
+- <https://q-vakken.nl/spaans/index.html>
+- <https://q-vakken.nl/informatica/spaans/index.html>
 - <https:///spaans/index.html>
 - [/spaans/index.html](/spaans/index.html)
 

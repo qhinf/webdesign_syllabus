@@ -1,6 +1,6 @@
 # Webdesign
 
-Q-highschool / Bijeenkomst 6
+Q-vak Informatica / Bijeenkomst 6
 
 ---
 
@@ -265,7 +265,7 @@ Demo met dev tools
 
 Nog geen design prototype? &rarr; Ga die maken!
 
-*CSS Opdrachten.zip* (zie [syllabus](https://informatica.q-highschool.nl/webdesign)), opdracht 11/12
+*CSS Opdrachten.zip* (zie [syllabus](https://informatica.q-vakken.nl/webdesign)), opdracht 11/12
 
 ![](assets/bijeenkomst_6/css_opdr1112.gif)
 

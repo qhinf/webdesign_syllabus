@@ -1,6 +1,6 @@
 # Webdesign
 
-Q-highschool / Bijeenkomst 5
+Q-vak Informatica / Bijeenkomst 5
 
 ---
 
@@ -39,7 +39,7 @@ Dit is een ...
 ```html[2]
 <img
   src="sources/logo.png"
-  alt="Q-highschool logo"
+  alt="Q-vakken logo"
 />
 ```
 
@@ -332,7 +332,7 @@ border-bottom: 8px dashed black;
 
 ### Oefening
 
-*CSS Opdrachten.zip* (zie [syllabus](https://informatica.q-highschool.nl/webdesign)), opdracht 9
+*CSS Opdrachten.zip* (zie [syllabus](https://informatica.q-vakken.nl/webdesign)), opdracht 9
 
 ![](assets/bijeenkomst_5/css_opdr9.png)
 
@@ -388,7 +388,7 @@ Vergelijkbaar met `border`; `padding` werkt precies zo.
 
 ### Oefening
 
-*CSS Opdrachten.zip* (zie [syllabus](https://informatica.q-highschool.nl/webdesign)), opdracht 10
+*CSS Opdrachten.zip* (zie [syllabus](https://informatica.q-vakken.nl/webdesign)), opdracht 10
 
 ![](assets/bijeenkomst_5/css_opdr10.png)
 

@@ -4,7 +4,7 @@ Na het oefenen met het maken van een website is het nu tijd om het eindproduct v
 
 De opdracht is eenvoudig: maak een website! Het onderwerp en de inhoud van de site mag je zelf bepalen, en ook het design is aan jou (maar denk wel aan wat je daarover tijdens de les hebt geleerd). In een begeleidend document leg je kort uit welke keuzes je in het design hebt gemaakt.
 
-Wat wel belangrijk is: je website moet in principe publiceerbaar zijn. Dat betekent dat je je ook aan copyright regels moet houden, en dus geen teksten of afbeeldingen kopieert die niet van jou zijn, als je daar geen toetstemming voor hebt. Dat geldt ook voor de HTML en CSS code: in principe schrijf je die zelf, tenzij je toestemming hebt om die code te kopiëren **en** je dat duidelijk vermeldt met commentaar. Dezelfde eisen gelden voor generatieve AI: code mag je alleen overnemen als je dat duidelijk vermeldt met commentaar. Generatieve AI gebruiken als zoekmachine of om de juiste aanpak te bepalen, is natuurlijk prima. Zie de [Handleiding code stelen](https://informatica.q-highschool.nl/informatie/code-stelen-van-het-internet-of-leerling) voor meer informatie. Code die je gekopieerd hebt, telt voor de beoordeling natuurlijk niet mee in de eisen aan HTML en CSS. En voor het design krijg je ook geen punten, als dat niet je eigen design is. Je laten inspireren en zelfs elementen overnemen is prima, maar de kern moet altijd je eigen werk zijn.
+Wat wel belangrijk is: je website moet in principe publiceerbaar zijn. Dat betekent dat je je ook aan copyright regels moet houden, en dus geen teksten of afbeeldingen kopieert die niet van jou zijn, als je daar geen toetstemming voor hebt. Dat geldt ook voor de HTML en CSS code: in principe schrijf je die zelf, tenzij je toestemming hebt om die code te kopiëren **en** je dat duidelijk vermeldt met commentaar. Dezelfde eisen gelden voor generatieve AI: code mag je alleen overnemen als je dat duidelijk vermeldt met commentaar. Generatieve AI gebruiken als zoekmachine of om de juiste aanpak te bepalen, is natuurlijk prima. Zie de [Handleiding code stelen](https://informatica.q-vakken.nl/informatie/code-stelen-van-het-internet-of-leerling) voor meer informatie. Code die je gekopieerd hebt, telt voor de beoordeling natuurlijk niet mee in de eisen aan HTML en CSS. En voor het design krijg je ook geen punten, als dat niet je eigen design is. Je laten inspireren en zelfs elementen overnemen is prima, maar de kern moet altijd je eigen werk zijn.
 
 (eindopdracht_design)=
 ## Designverantwoording
@@ -18,7 +18,7 @@ Minimale eisen:
 - De website bestaat uit minimaal twee pagina's met onderlinge navigatie
 - De website is gemaakt met HTML, CSS en eventueel JavaScript
   - Squarespace, Webflow, Wix, Framer etc. voldoen dus *niet* voor deze opdracht
-  - Wil je dieper gaan? Gebruik van een [CMS](https://nl.wikipedia.org/wiki/Contentmanagementsysteem), [SSG](https://en.wikipedia.org/wiki/Static_site_generator), [WAF](https://en.wikipedia.org/wiki/Web_framework) of [SPA](https://en.wikipedia.org/wiki/Single-page_application) framework is toegestaan, mits je je eigen templates maakt (en kan je zelfs bonuspunten opleveren)
+  - Wil je dieper gaan? Gebruik van een [CMS](https://nl.wikipedia.org/wiki/Contentmanagementsysteem), [SSG](https://en.wikipedia.org/wiki/Static_site_generator), [WAF](https://en.wikipedia.org/wiki/Web_framework) of [SPA](https://en.wikipedia.org/wiki/Single-page_application) framework is toegestaan (en levert je zelfs bonuspunten op), *mits* je je eigen templates maakt
 
 Eindproducten die niet aan deze voorwaarden voldoen, kunnen geen voldoende scoren. We beoordelen je website aan de hand van deze rubric:
 
@@ -118,12 +118,12 @@ Je cijfer is het gemiddelde van de 6 criteria uit de rubric. Voor het niveau *go
 
 ## Inleveren
 
-Je levert je website in via de Inlever-knop op [app.q-highschool.nl](https://app.q-highschool.nl). Je kunt daar maar één bestand inleveren, dus moet je alle bestanden van je website (HTML, CSS, afbeeldingen, etc.) een .zip bestand maken.
+Je levert je website in via de Inlever-knop op [app.q-vakken.nl](https://app.q-vakken.nl). Je kunt daar maar één bestand inleveren, dus moet je alle bestanden van je website (HTML, CSS, afbeeldingen, etc.) een .zip bestand maken.
 
 1. Zorg dat alle bestanden in één map staan en open die map als project in **Visual Studio Code** (*Bestand → Map openen…*).
 2. Open die map in de Verkenner (Windows) of Finder (macOS). Dat kan direct vanuit **Visual Studio Code**: klik in de VS Code **Explorer** met rechts op je projectmap en kies *Reveal in File Explorer* (Windows) of *Reveal in Finder* (macOS).
-3. Maak een .zip bestand volgens [deze instructies](https://informatica.q-highschool.nl/informatie/meerdere-bestanden-inleveren). Vergeet niet om ook je document met uitleg over je [design](eindopdracht_design) toe te voegen aan deze map!
-4. Lever het .zip-bestand in op [app.q-highschool.nl](https://app.q-highschool.nl).
+3. Maak een .zip bestand volgens [deze instructies](https://informatica.q-vakken.nl/informatie/meerdere-bestanden-inleveren). Vergeet niet om ook je document met uitleg over je [design](eindopdracht_design) toe te voegen aan deze map!
+4. Lever het .zip-bestand in op [app.q-vakken.nl](https://app.q-vakken.nl).
 
 ### In gesprek
 

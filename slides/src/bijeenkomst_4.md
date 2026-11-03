@@ -1,6 +1,6 @@
 # Webdesign
 
-Q-highschool / Bijeenkomst 4
+Q-vak Informatica / Bijeenkomst 4
 
 ---
 
@@ -59,7 +59,7 @@ Deze lijst maak je met...
 
 Naar welke pagina gaat de link?
 
-<small>Je bent op <https://q-highschool.nl/informatica/index.html></small>
+<small>Je bent op <https://q-vakken.nl/informatica/index.html></small>
 
 ```html
 <a href="/contact.html">
@@ -67,8 +67,8 @@ Naar welke pagina gaat de link?
 </a>
 ```
 
-- <https://q-highschool.nl/contact.html>
-- <https://q-highschool.nl/informatica/contact.html>
+- <https://q-vakken.nl/contact.html>
+- <https://q-vakken.nl/informatica/contact.html>
 - <https://contact.html>
 - [contact.html](contact.html)
 

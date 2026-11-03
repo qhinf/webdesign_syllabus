@@ -1,6 +1,6 @@
 # Webdesign
 
-Q-highschool / Bijeenkomst 7
+Q-vak Informatica / Bijeenkomst 7
 
 ---
 
@@ -48,7 +48,7 @@ Welke attributen heeft dit element?
 ```html
 <img
     src="sources/logo.svg"
-    alt="Q-highschool logo"
+    alt="Q-vakken logo"
 />
 ```
 
@@ -88,7 +88,7 @@ Waarvoor is het element `<a>`?
 
 Naar welke pagina gaat de link?
 
-<small>Je bent op <https://q-highschool.nl/informatica/index.html></small>
+<small>Je bent op <https://q-vakken.nl/informatica/index.html></small>
 
 ```html
 <a href="modules.html">
@@ -96,8 +96,8 @@ Naar welke pagina gaat de link?
 </a>
 ```
 
-- <https://q-highschool.nl/modules.html>
-- <https://q-highschool.nl/informatica/modules.html>
+- <https://q-vakken.nl/modules.html>
+- <https://q-vakken.nl/informatica/modules.html>
 - <https://modules.html>
 - [modules.html](modules.html)
 
@@ -363,7 +363,7 @@ p {
 
 ***
 
-*CSS Opdrachten.zip* (zie [syllabus](https://informatica.q-highschool.nl/webdesign)), opdracht 11/12
+*CSS Opdrachten.zip* (zie [syllabus](https://informatica.q-vakken.nl/webdesign)), opdracht 11/12
 
 ![](assets/bijeenkomst_6/css_opdr1112.gif)
 
@@ -371,13 +371,13 @@ p {
 
 ## Hoe lever je dit in?
 
-[Syllabus: Eindopdracht > Inleveren](https://informatica.q-highschool.nl/webdesign/2425-3/eindopdracht.html#inleveren)
+[Syllabus: Eindopdracht > Inleveren](https://informatica.q-vakken.nl/webdesign/2425-3/eindopdracht.html#inleveren)
 
 ***
 
 ## En verder?
 
-Q-highschool:\
+Q-vakken:\
 Programmeren met JavaScript, Python+
 
 ***
@@ -394,7 +394,7 @@ Programmeren met JavaScript, Python+
 
 Gratis opties: GitHub Pages, Neocities, ...
 
-Hoe? Zie de [syllabus](https://informatica.q-highschool.nl/webdesign/2425-3/online_zetten.html)
+Hoe? Zie de [syllabus](https://informatica.q-vakken.nl/webdesign/2425-3/online_zetten.html)
 
 Notes:
 - GitHub Pages gebruiken we voor de syllabussite

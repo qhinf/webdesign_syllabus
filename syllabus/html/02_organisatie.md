@@ -115,12 +115,12 @@ Hier is een voorbeeld van een goede implementatie:
 <html lang="nl">
     <head>
         <meta charset="utf-8"/>
-        <title>Q-highschool</title>
+        <title>Q-vakken</title>
     </head>
     <body>
         <header>
             <img
-                src="sources/Logo_Q-highschool_2019.png"
+                src="sources/Logo_Q-vakken_2019.png"
                 alt="q-highschool logo"
                  width="200"
                  height="60"
@@ -128,13 +128,13 @@ Hier is een voorbeeld van een goede implementatie:
         </header>
         <section>
             <p>
-                De <b>Q-highschool</b> is een initiatief van Quadraam,
+                De <b>Q-vakken</b> is een initiatief van Quadraam,
                 Gelderse Onderwijs Groep, en maakt en organiseert innovatief onderwijs
                 waaraan alle leerlingen van de dertien Quadraamscholen kunnen deelnemen.
                 <br/><i>Jij</i> dus ook! <br/>Er zijn vier
                 leidende principes die richting geven aan het onderwijsaanbod en de
-                werkwijze binnen de Q-highschool. Deze kenmerken zijn hieronder
-                beschreven en geven aan waar de Q-highschool voor staat.
+                werkwijze binnen de Q-vakken. Deze kenmerken zijn hieronder
+                beschreven en geven aan waar de Q-vakken voor staat.
             </p>
             <aside>
                 <figure>
@@ -156,7 +156,7 @@ Hier is een voorbeeld van een goede implementatie:
                 <h3>Leren is groeien</h3>
                 <p>
                     Experimenteren, fouten maken, opnieuw beginnen, of het gewoon anders
-                    doen, mag dan ook binnen de Q-highschool. De
+                    doen, mag dan ook binnen de Q-vakken. De
                     <b>leerervaring</b> weegt zwaarder dan het eindresultaat.
                 </p>
             </article>
@@ -165,7 +165,7 @@ Hier is een voorbeeld van een goede implementatie:
                 <p>
                     Wij geloven erin dat leerlingen zelf
                     <b>verantwoordelijkheid</b> kunnen nemen voor (delen van)
-                    hun eigen leerproces. Q-highschool biedt daarvoor de ruimte en de
+                    hun eigen leerproces. Q-vakken biedt daarvoor de ruimte en de
                     mogelijkheden.
                 </p>
             </article>
@@ -173,7 +173,7 @@ Hier is een voorbeeld van een goede implementatie:
                 <h3>Leren omdat het ertoe doet</h3>
                 <p>
                     Om te leren heb je hoofd, hart en handen nodig. Leren is ervaren,
-                    denken, doen en zijn. In de Q-highschool nemen leerlingen deel aan
+                    denken, doen en zijn. In de Q-vakken nemen leerlingen deel aan
                     <b>leeractiviteiten die ertoe doen.</b>
                 </p>
             </article>
