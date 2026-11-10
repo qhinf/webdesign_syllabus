@@ -261,7 +261,7 @@ Pas de website aan <!-- .element: style="margin-top: 1em" -->
 (Zie ook de pagina in de [syllabus](../benodigdheden.html).)
 
 Notes:
-Aanrader is Visual Studio Code. In de syllabus wordt nog beschreven hoe je met WebStorm werkt. Dat ga ik proberen zo snel mogelijk aan te passen, want installeren is niet eenvoudig.
+Aanrader is Visual Studio Code.
 
 ---
 

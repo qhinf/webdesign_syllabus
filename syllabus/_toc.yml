@@ -14,15 +14,18 @@ parts:
   - caption: HTML
     chapters:
     - file: html/introductie
+  - caption: HTML oefeningen
+    numbered: true
+    chapters:
     - file: html/01_simpele_elementen
     - file: html/02_organisatie
     - file: html/03_tabellen_lijsten
     - file: html/04_navigatie
     - file: html/05_validatie
-  - caption: CSS
+  - caption: CSS oefeningen
+    numbered: true
     chapters:
-    - file: css/introductie
-    - file: css/06_koppeling
+    - file: css/06_introductie
     - file: css/07_kleuren
     - file: css/08_tekst
     - file: css/09_randen

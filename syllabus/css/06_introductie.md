@@ -1,7 +1,7 @@
 # CSS: Introductie
 
 :::{exercise}
-Download [CSS Opdrachten.zip](../assets/CSS%20Opdrachten.zip) en pak het .zip bestand uit. Deze bestanden gebruiken we voor CSS oefeningen tijdens de les.
+Download [CSS Oefeningen.zip](../assets/CSS%20Oefeningen.zip) en pak het .zip bestand uit. Deze bestanden gebruiken we voor CSS oefeningen tijdens de les.
 :::
 
 CSS staat voor Cascading Style Sheets. Met CSS beschrijf je hoe elements weergeven moeten worden op je beeldscherm. Je kunt één CSS-bestand gebruiken voor veel verschillende HTML-bestanden, waardoor je makkelijk een uniforme opmaak voor heel je website hanteert. Je kunt ook meer CSS-bestanden per HTML-bestand gebruiken om zo heel gemakkelijk en snel een aangepaste opmaak voor elke pagina te maken.
@@ -65,8 +65,9 @@ Met een external stylesheet worden de stijlregels in een eigen CSS-bestand gezet
 
 Voor je eigen stylesheets hoef je alleen `href` aan te passen naar de locatie van je eigen stylesheet. De regels voor het pad dat je daar moet gebruiken zijn hetzelfde als voor `<a href="` linkjes naar andere HTML pagina's in je website. De rest van het voorbeeld kun je kopiëren. Mocht je willen weten wat de andere attributes precies betekenen en wat de mogelijkheden hiervoor zijn kijk dan op: [*https://www.w3schools.com/tags/tag_link.asp*](https://www.w3schools.com/tags/tag_link.asp)
 
-## Zelf aan de slag
+:::{exercise}
+We gaan nu een CSS-bestand maken en die koppelen aan je HTML-bestand.
 
-CSS bevat heel veel verschillende properties, om deze goed te begrijpen ga je ze meteen in de praktijk toepassen. Gebruik om de CSS te testen je HTML-bestand uit `Opdracht_5` maak een nieuwe website met wat content aan. Zorg ervoor dat je in ieder geval een paar keer `p` en een paar keer `a` gebruikt.
-
-De oefeningen vind je op de volgende pagina's.
+1.  Voeg een CSS-bestand toe aan de map *Opdracht_6* door met de rechtermuisknop op de map te klikken, vervolgens *New File...* te kiezen en als naam `style.css` in te voeren.
+2.  Gebruik `<link rel="stylesheet" type="text/css" href="style.css" />` om jouw `style.css` te koppelen aan je HTML-bestanden zoals hierboven uitgelegd. Let op dat je de `href` aanpast als je HTML-bestanden in submappen hebt staan.
+:::

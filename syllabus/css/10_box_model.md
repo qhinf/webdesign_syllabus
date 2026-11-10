@@ -1,4 +1,4 @@
-# Oefening 10 - Het box model
+# Het box model
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Box-model.svg/765px-Box-model.svg.png](../assets/image14.png)
 
@@ -24,10 +24,14 @@ De margin kan verschillende waarden hebben:
 
 Margins zijn bedoeld om een minimale hoeveelheid ruimte aan één of meer van de zijden van een element te definiëren. Om dit te faciliteren, maakt de browser gebruik van *margin collapsing*. Dit houdt in dat wanneer er twee margins boven elkaar zitten van verschillende elementen, de kleinste margin genegeerd wordt. Het resultaat is dus dat de afstand tussen de elements slechts de afstand van de grootste margin is, en niet de som van beide margins.
 
-1.  Pas de `margin` aan van één of meerdere elementen.
+:::{exercise}
+Pas de `margin` aan van één of meerdere elementen.
+:::
 
 ## Padding
 
 Padding is eigenlijk het omgekeerde van een margin. Een margin bepaald de ruimte tussen de border en andere elementen, terwijl de padding de ruimte tussen de border en de content bepaalt. Padding volgt dezelfde syntax als margin.
 
-1.  Pas de `padding` aan van één of meerdere elementen.
+:::{exercise}
+Pas de `padding` aan van één of meerdere elementen.
+:::

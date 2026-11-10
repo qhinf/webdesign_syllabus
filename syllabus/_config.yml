@@ -47,7 +47,7 @@ sphinx:
     # "Solution to".
     # We wachten op https://github.com/executablebooks/sphinx-exercise/issues/13
     numfig_format:
-      exercise: "Opdracht %s"
+      exercise: "Oefening %s"
     # Definieer de keys die in de tekst vervangen kunnen worden. Handig voor
     # zaken die vaker terugkomen en bijvoorbeeld aangepast moeten worden voor
     # een volgende editie.
@@ -56,8 +56,8 @@ sphinx:
       eerste_inlevermoment: "donderdag 28 januari, 16:00" # donderdag in week 8
       tweede_inlevermoment_melden: "maandag 4 januari, 16:00" # maandag in week 6
       tweede_inlevermoment: "dinsdag 16 februari, 16:00" # dinsdag in de week 3 weken na het eerste inlevermoment?
-      docent: "Els Dillerop en Arthur Rump"
-      docent_email: "e.dillerop-lucassen apenstaartje montessoriarnhem puntnl / a.rump apenstaartje quadraam punt nl"
+      docent: "Arthur Rump en Els Dillerop"
+      docent_email: "a.rump apenstaartje quadraam punt nl / e.dillerop-lucassen apenstaartje montessoriarnhem punt nl"
 
 
 # html, repository en launch_buttons instellingen worden globaal voor alle

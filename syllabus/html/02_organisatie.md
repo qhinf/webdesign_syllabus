@@ -1,4 +1,4 @@
-# Oefening 2 - Organisatie
+# Organisatie
 
 Zoals je misschien al hebt gemerkt tijdens het lezen van de code in het voorbeeld is het niet op het eerste gezicht duidelijk hoe de website georganiseerd is. In HTML5 is hier een nieuw systeem voor geïntroduceerd, dit bestaat uit de zogenaamde **Semantic Elements**. Deze elements zorgen ervoor dat elke website in de basis op dezelfde manier gestructureerd kan worden zoals hiernaast. Door deze structuur kunnen computers en zoekmachines beter omgaan met de websites, waardoor de ervaring van de gebruiker verbeterd.
 
@@ -88,16 +88,6 @@ De `<figure></figure` en `<figcaption></figcaption>` worden gebruikt om een besc
 </figure>
 ```
 
-## Div en span
-
-Voordat semantic elements de standaard werden werd er veel gewerkt met `<div>` en `<span>`. Deze elementen geven geen betekenis aan de content. Ze worden nog steeds veel gebruikt voor layout en styling met CSS. Het verschil is dat `<div>` block-level is (er komt een witregel omheen) en `<span>` inline is (staat tussen de tekst in).
-
-`<div>` groepeert de elementen bij elkaar en zet er een witregel omheen. `<span>` groepeert juist elements in-line bij elkaar, ze worden dus achter elkaar gezet.
-
-Je kan en mag deze elements nog steeds gebruiken om andere elementen te groeperen of te stylen, maar als er een semantic element is dat je kan gebruiken dan is het sneller en beter om deze te gebruiken.
-
-Meer informatie over semantic elements kan je hier vinden: [https://www.w3schools.com/html/html5_semantic_elements.asp]
-
 :::{exercise}
 Maak een kopie van de website die je in Oefening 1 hebt gemaakt.
 	1.	Open de map van je project in VS Code: File → Open Folder… en kies de map Webdesign (of waar je je project hebt).
@@ -108,78 +98,85 @@ Maak een kopie van de website die je in Oefening 1 hebt gemaakt.
 
 Hier is een voorbeeld van een goede implementatie:
 
-![](../assets/image7.png)
+![](../assets/demosite_organisatie.png)
+
+Zie je geen verschil met het screenshot uit de vorige paragraaf? Dat klopt! We hebben in de code hieronder alleen de organisatie aangepast, en niet de inhoud van de site zelf. Zonder extra stijlregels (waar we later mee aan de slag gaan) zie je van de semantic elements nog niets terug op je website!
 
 ``` html
 <!DOCTYPE html>
 <html lang="nl">
-    <head>
-        <meta charset="utf-8"/>
-        <title>Q-vakken</title>
-    </head>
-    <body>
-        <header>
-            <img
-                src="sources/Logo_Q-vakken_2019.png"
-                alt="q-highschool logo"
-                 width="200"
-                 height="60"
-            />
-        </header>
-        <section>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Q-vakken</title>
+</head>
+
+<body>
+    <header>
+        <img src="sources/QUA_LOGOS_PROGRAMMA.png" alt="Q-vakken logo" height="150px" />
+    </header>
+    <section>
+        <p>
+            <i>Spaans</i>, <i>filosofie</i> of <i>informatica</i> in jouw
+            vakkenpakket? Het kan met <b>Q-vakken</b>. Er valt nog veel meer te
+            kiezen. Dit zijn vakken die je gewoon via je eigen school volgt.
+            Check het aanbod hieronder. Wil je jouw vakkenpakket uitbreiden?
+            Loop dan direct even langs bij je decaan!
+        </p>
+    </section>
+    <section>
+        <h2>Bepaal je eigen programma!</h2>
+        <article>
+            <h3>Eigen regie</h3>
             <p>
-                De <b>Q-vakken</b> is een initiatief van Quadraam,
-                Gelderse Onderwijs Groep, en maakt en organiseert innovatief onderwijs
-                waaraan alle leerlingen van de dertien Quadraamscholen kunnen deelnemen.
-                <br/><i>Jij</i> dus ook! <br/>Er zijn vier
-                leidende principes die richting geven aan het onderwijsaanbod en de
-                werkwijze binnen de Q-vakken. Deze kenmerken zijn hieronder
-                beschreven en geven aan waar de Q-vakken voor staat.
+                Elk Q-vak is opgebouwd uit <i>modules</i>. Je volgt een aantal
+                verplichte onderdelen en kiest daarnaast zelf je keuzemodules.
+                Zo bepaal je zelf het startmoment, het tempo en de inhoud van
+                jouw vak. Je hebt dus echt zelf de <b>regie over wat en hoe je
+                leert</b>.
             </p>
-            <aside>
-                <figure>
-                    <img src="sources/logo-quadraam.jpg" alt="foto" width="150"/>
-                    <figcaption>Het logo van Quadraam</figcaption>
-                </figure>
-            </aside>
-        </section>
-        <section>
-            <article>
-                <h3>Open leersysteem</h3>
-                <p>
-                    Met een <b>netwerk</b> van leerlingen, hun ouders en
-                    medewerkers wordt de buitenwereld toegankelijk gemaakt, waardoor
-                    expertise en leermogelijkheden haast oneindig voorradig zijn.
-                </p>
-            </article>
-            <article>
-                <h3>Leren is groeien</h3>
-                <p>
-                    Experimenteren, fouten maken, opnieuw beginnen, of het gewoon anders
-                    doen, mag dan ook binnen de Q-vakken. De
-                    <b>leerervaring</b> weegt zwaarder dan het eindresultaat.
-                </p>
-            </article>
-            <article>
-                <h3>Regie bij de leerling</h3>
-                <p>
-                    Wij geloven erin dat leerlingen zelf
-                    <b>verantwoordelijkheid</b> kunnen nemen voor (delen van)
-                    hun eigen leerproces. Q-vakken biedt daarvoor de ruimte en de
-                    mogelijkheden.
-                </p>
-            </article>
-            <article>
-                <h3>Leren omdat het ertoe doet</h3>
-                <p>
-                    Om te leren heb je hoofd, hart en handen nodig. Leren is ervaren,
-                    denken, doen en zijn. In de Q-vakken nemen leerlingen deel aan
-                    <b>leeractiviteiten die ertoe doen.</b>
-                </p>
-            </article>
-        </section>
-        <footer>© Quadraam 2019</footer>
-    </body>
+        </article>
+        <article>
+            <h3>Module</h3>
+            <p>
+                Een module is een afgerond leertraject van 8 weken. Je focust je
+                hierin op de theorie en de praktijk van één thema binnen jouw
+                gekozen vak. Na 7 weken sluit je de module af met een
+                <b>toets</b> of een <b>praktische opdracht</b>. Heb je dit
+                afgerond? Dan heb je dit onderdeel direct binnen.
+            </p>
+        </article>
+        <article>
+            <h3>Online of fysiek</h3>
+            <p>
+                Bij de Q-vakken wissel je <b>online lessen</b> af met
+                <b>bijeenkomsten op locatie</b>. Er is een vast rooster voor de
+                online en fysieke lessen. De ene week kom je fysiek samen met
+                andere leerlingen op een van de Quadraam-scholen. Je deelt daar
+                kennis en ervaringen. De andere week volg je een online les.
+                Daarnaast werk je <b>zelfstandig</b> aan de online lesstof op
+                momenten die in je rooster passen.
+            </p>
+        </article>
+        <article>
+            <h3>Locatie</h3>
+            <p>
+                Een Q-vak-les vindt niet altijd plaats op je eigen school. Er
+                doen namelijk leerlingen van verschillende scholen mee. We
+                kiezen daarom een <i>centrale locatie</i> die voor iedereen goed
+                bereikbaar is. Ligt deze locatie verder dan 7 kilometer van jouw
+                eigen school? Dan regelen we een <b>taxi</b> voor je.
+            </p>
+        </article>
+    </section>
+    <footer>
+        <p>
+            De Q-vakken zijn een initiatief van Quadraam.
+        </p>
+        <img src="sources/QUA_LOGO_QUA_Logo_payoff_small.png" alt="Quadraam logo" height="100px" />
+    </footer>
+</body>
+
 </html>
 ```
 

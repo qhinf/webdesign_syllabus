@@ -1,8 +1,6 @@
-# Oefening 7 - Kleuren
+# Kleuren
 
 Eén van de belangrijkste elementen van een website is het kleurenschema. Tot nu toe zijn onze websites in zwart-wit gemaakt op een paar plaatjes na. Wij gaan daar nu verandering in aanbrengen met CSS.
-
-## Tekst
 
 ## Tekst
 
@@ -16,7 +14,9 @@ Hierbij kan `kleur` veel verschillende waarden zijn. De simpelste optie is het g
     }
 ```
 
-1.  Geef de tekst in je website een kleurtje. Maak hierbij gebruik van aparte kleuren voor de verschillende kopjes, tabellen, etc.
+:::{exercise}
+Geef de tekst in je website een kleurtje. Maak hierbij gebruik van aparte kleuren voor de verschillende kopjes, tabellen, etc.
+:::
 
 ## (Optioneel) RGB(A)
 
@@ -26,7 +26,9 @@ In deze syntax staat het eerste getal voor de hoeveelheid rood, het tweede getal
 
 RGBA is een variant op de RGB waarden. Hierbij is er een vierde getal toegevoegd tussen 0 en 1 dat bepaald hoe transparant de kleur is. Hier betekent 0 dat de kleur volledig transparant is en 1 dat de kleur niet transparant is. De syntax hiervan is als volgt: `color: rgba(255,255,255,0.5);`
 
-1.  Pas één of meerdere van jouw aangepaste kleuren aan en gebruik nu RGB of RGBA waarden.
+:::{exercise}
+Pas één of meerdere van jouw aangepaste kleuren aan en gebruik nu RGB of RGBA waarden.
+:::
 
 ## (Optioneel) HEX
 
@@ -34,7 +36,9 @@ De HEX manier om kleuren aan te geven lijkt veel op de RGB manier. De syntax is 
 
 Op het eerste oog lijkt het heel anders, dit komt door het gebruik van hexadecimal. Hexadecimal is een manier om te tellen die voor computers is ontwikkeld. De waardes voor rood, groen en blauw blijven variabel tussen 0 en 255, alleen dit ziet er in hexadecimal uit als `00` tot `ff`. Dit betekent dat in het voorbeeld `ff` de waarde is voor rood, `15` de waarde is voor groen en `5a` de waarde is voor blauw. Ook het gebruik van HEX is het makkelijkst met de color picker, kies een kleur en kopieer de waarde: <https://www.google.com/search?q=rgb+color+picker>
 
-1.  Pas één of meerdere van jouw aangepaste kleuren aan en gebruik nu HEX waarden.
+:::{exercise}
+Pas één of meerdere van jouw aangepaste kleuren aan en gebruik nu HEX waarden.
+:::
 
 ## (Optioneel) HSL(A)
 
@@ -46,17 +50,24 @@ Hierbij staat het eerste getal voor de hue (tint in het Nederlands). Deze hue is
 
 HSLA is weer een variant op de HSL waarden. Net zoals bij RGBA is er een vierde getal toegevoegd tussen 0 en 1 dat bepaald hoe transparant de kleur is. Hierbij betekent 0 dat de kleur volledig transparant is en 1 dat de kleur niet transparant is.
 
-1.  Pas één of meerdere van jouw aangepaste kleuren aan en gebruik nu HSL of HSLA waarden.
+:::{exercise}
+Pas één of meerdere van jouw aangepaste kleuren aan en gebruik nu HSL of HSLA waarden.
+:::
 
 ## Achtergrond
 
 Naast de tekstkleur kan ook de achtergrondkleur van elementen aangepast worden. Dit wordt gedaan met `background-color`. Hierbij kunnen de verschillende waarden voor kleuren hierboven weer gebruikt worden. Deze property heeft op ieder element weer een andere invloed, uitproberen loont dus.
 
-1.  Voeg een achtergrondkleur toe aan één of meerdere elementen.
+:::{exercise}
+Voeg een achtergrondkleur toe aan één of meerdere elementen.
+:::
 
 ## Opacity
 
 Voor ieder element in je webpagina kan je ook `opacity` gebruiken. Dit specificeert de doorzichtigheid van dat element. De waarde hiervan moet tussen 0 en 1 zijn, waarbij 0 betekent dat het element niet zichtbaar is en 1 betekent dat het element volledig zichtbaar is.
 
-1.  Voeg `opacity` toe aan één of meerdere elementen.
-2.  Zorg ervoor dat in je uiteindelijke CSS-bestand iedere kleuraanduiding minimaal één keer aanwezig is. Zo kan je later terugkomen naar de code en zien welke verschillende manieren ook alweer bestaan.
+:::{exercise}
+Voeg `opacity` toe aan één of meerdere elementen.
+
+Zorg ervoor dat in je uiteindelijke CSS-bestand iedere kleuraanduiding minimaal één keer aanwezig is. Zo kan je later terugkomen naar de code en zien welke verschillende manieren ook alweer bestaan.
+:::

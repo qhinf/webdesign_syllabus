@@ -1,12 +1,10 @@
-# Oefening 3 - Tabellen en lijsten
+# Tabellen en lijsten
 
 Tabellen en lijsten zijn zeer handige manieren om informatie te ordenen. In HTML zijn hier dan ook verschillende elements aan toegewijd.
 
 ## Table
 
 In HTML maak je een tabel met `<table></table>`. Hierbinnen maak je rijen met `<tr></tr>` en kolommen met `<td></td>`. Ook kan je de tabel kopjes geven met `<th></th>`. Je kan ook de hele tabel een kop geven met `<caption></caption>`. De syntax van een tabel is als volgt:
-
-![](../assets/image8.png)
 
 ``` html
 <table>
@@ -34,7 +32,34 @@ In HTML maak je een tabel met `<table></table>`. Hierbinnen maak je rijen met `<
 </table>
 ```
 
-Dit geeft het resultaat aan de rechterkant. Er kunnen nog meer dingen worden aangepast aan de tabel. Kijk hiervoor op <https://www.w3schools.com/html/html_tables.asp> als je geïnteresseerd bent. De tabel ziet er nu ook nog redelijk saai uit. Dit gaan we echter later met CSS verbeteren.
+Dat geeft het volgende resultaat:
+
+<table>
+    <caption>Mensen</caption>
+    <thead>
+        <tr>
+            <th>Naam</th>
+            <th>Leeftijd</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Nancy</td>
+            <td>60</td>
+        </tr>
+        <tr>
+            <td>James</td>
+            <td>47</td>
+        </tr>
+        <tr>
+            <td>Thomas</td>
+            <td>37</td>
+        </tr>
+    </tbody>
+</table>
+
+
+Er kunnen nog meer dingen worden aangepast aan de tabel. Kijk hiervoor op <https://www.w3schools.com/html/html_tables.asp> als je geïnteresseerd bent. De tabel ziet er nu ook nog redelijk saai uit. Dit gaan we echter later met CSS verbeteren.
 
 :::{exercise}
 Maak een kopie van de website uit Oefening 2. Pas hem nu aan door een tabel toe te voegen, voorzie die ook meteen van inhoud.
@@ -42,7 +67,7 @@ Maak een kopie van de website uit Oefening 2. Pas hem nu aan door een tabel toe 
 
 ## Unordered list
 
-Wanneer je met HTML slechts een lijst van bullet points wilt maken dan kan je hiervoor een unordered list gebruiken. Deze vorm van list bestaat uit een buitenste element `<ul></ul>`, die een unordered list aankondigt, en een binnenste element met `<li></li>` (list items). Deze elements bevatten uiteindelijk de inhoud. Dit doe je als volgt met het resultaat aan de rechterkant: ![](../assets/image9.png)
+Wanneer je met HTML slechts een lijst van bullet points wilt maken dan kan je hiervoor een unordered list gebruiken. Deze vorm van list bestaat uit een buitenste element `<ul></ul>`, die een unordered list aankondigt, en een binnenste element met `<li></li>` (list items). Deze elements bevatten uiteindelijk de inhoud.
 
 ``` html
 <ul>
@@ -53,6 +78,16 @@ Wanneer je met HTML slechts een lijst van bullet points wilt maken dan kan je hi
     <li>C#</li>
 </ul>
 ```
+
+Dat ziet er dan zo uit:
+
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>C</li>
+    <li>C#</li>
+</ul>
 
 :::{exercise}
 Voeg een unordered list toe aan de website en voorzie die van inhoud.
@@ -70,8 +105,6 @@ Wanneer je met HTML een geordende lijst met bijvoorbeeld nummers wilt maken, dan
 
 Dit leidt tot de volgende syntax en het volgende resultaat:
 
-![](../assets/image10.png)
-
 ``` html
 <ol type="I">
     <li>HTML</li>
@@ -81,6 +114,14 @@ Dit leidt tot de volgende syntax en het volgende resultaat:
     <li>C#</li>
 </ol>
 ```
+
+<ol type="I">
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>C</li>
+    <li>C#</li>
+</ol>
 
 :::{exercise}
 Voeg een ordered list toe aan de website en voorzie meteen van inhoud.

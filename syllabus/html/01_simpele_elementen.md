@@ -1,4 +1,4 @@
-# Oefening 1 - Simpele elementen
+# Simpele elementen
 
 :::{exercise}
 Start **Visual Studio Code (VS Code)** en maak je projectmap aan.
