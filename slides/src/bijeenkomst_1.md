@@ -120,7 +120,7 @@ Interactief
 
 ### 👍 Website&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;webapp? ❤️
 
-q-higschool.nl\
+q-vakken.nl\
 app.q-vakken.nl\
 nl.wikipedia.org\
 nos.nl\
